@@ -26,3 +26,12 @@
 [SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
 
 # Grouping Functions
+
+# Joins
+<uo>
+<li>Oracle INNER JOIN (or sometimes called simple join)</li>
+<li>Oracle LEFT OUTER JOIN (or sometimes called LEFT JOIN)</li>
+<li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
+<li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
+</uo>
+[Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)
