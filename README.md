@@ -42,7 +42,8 @@
 [SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
 
 # Oracle Tables and Views
-[Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)
+[Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
+[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)
 
 # Others
 [Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
