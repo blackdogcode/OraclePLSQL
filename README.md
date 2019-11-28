@@ -7,4 +7,6 @@
 [SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)\
 [SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)\
 [SQL AND, OR and NOT Operators](https://www.w3schools.com/sql/sql_and_or.asp)\
-[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)
+[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)\
+[SQL IN Operator](https://www.w3schools.com/sql/sql_in.asp)\
+[SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)
