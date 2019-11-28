@@ -16,4 +16,5 @@
 [SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
 [SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)
 # Single Row Functions(SRFS)
-[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)
+[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
+[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
