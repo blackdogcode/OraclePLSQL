@@ -1,9 +1,10 @@
-# OracleSQL
+# Oracle PL/SQL
 [Oracle Apex Workshop](https://apex.oracle.com/en/)\
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
 [Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)\
 [Oracle PL/SQL](https://www.techonthenet.com/oracle/index.php)\
-[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
+[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)\
+[Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)
 
 # SQL DML
 [SELECT](https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10002.htm)\
