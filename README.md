@@ -24,3 +24,5 @@
 # Single Row Functions(SRFS)
 [Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
 [SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+
+# Grouping Functions
