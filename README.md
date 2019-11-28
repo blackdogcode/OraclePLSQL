@@ -34,4 +34,5 @@
 <li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
 <li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
 </uo>
+
 [Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)
