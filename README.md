@@ -13,4 +13,5 @@
 [Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)\
 [SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)\
 [SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)\
-[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)
+[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
+[SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)
