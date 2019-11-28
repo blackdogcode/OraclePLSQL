@@ -3,6 +3,7 @@
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
 [Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)\
 [Oracle PL/SQL](https://www.techonthenet.com/oracle/index.php)\
+[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
 
 # SQL DML
 [SELECT](https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10002.htm)\
@@ -21,5 +22,4 @@
 
 # Single Row Functions(SRFS)
 [Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
-[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)\
-[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
+[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
