@@ -10,4 +10,5 @@
 [SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)\
 [SQL IN Operator](https://www.w3schools.com/sql/sql_in.asp)\
 [SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)\
-[Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)
+[Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)\
+[SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)
