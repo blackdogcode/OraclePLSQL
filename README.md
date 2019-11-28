@@ -7,6 +7,22 @@
 # Oracle PL/SQL Data Type
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)
 
+# Oracle Query Types
+[Oracle / PLSQL: SELECT Statement](https://www.techonthenet.com/oracle/select.php)\
+[Oracle / PLSQL: INSERT Statement](https://www.techonthenet.com/oracle/insert.php)\
+[SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)\
+[SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)\
+[SQL AND, OR and NOT Operators](https://www.w3schools.com/sql/sql_and_or.asp)\
+[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)\
+[SQL IN Operator](https://www.w3schools.com/sql/sql_in.asp)\
+[SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)\
+[Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)\
+[SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)\
+[SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)\
+[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
+[SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)\
+[SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
+
 # Single Row Functions(SRFS)
 [Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
 [SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
@@ -25,21 +41,6 @@
 
 # Oracle Conditions
 [EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
-
-# SQL DML
-[SELECT](https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10002.htm)\
-[SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)\
-[SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)\
-[SQL AND, OR and NOT Operators](https://www.w3schools.com/sql/sql_and_or.asp)\
-[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)\
-[SQL IN Operator](https://www.w3schools.com/sql/sql_in.asp)\
-[SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)\
-[Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)\
-[SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)\
-[SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)\
-[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
-[SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)\
-[SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
 
 # Oracle Tables and Views
 [Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
