@@ -27,7 +27,7 @@
 
 # Grouping Functions
 
-# Joins
+# Oracle Joins
 [Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)
 
 <uo>
@@ -36,3 +36,6 @@
 <li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
 <li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
 </uo>
+
+# Oracle Conditions
+[EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
