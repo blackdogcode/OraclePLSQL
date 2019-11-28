@@ -7,6 +7,13 @@
 # Oracle PL/SQL Data Type
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)
 
+# Oracle Keys, Constraints and Indexes
+[Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
+[Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
+[Oracle / PLSQL: Unique Constraints](https://www.techonthenet.com/oracle/unique.php)\
+[Oracle / PLSQL: Check Constraints](https://www.techonthenet.com/oracle/check.php)\
+[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
+
 # Oracle Query Types
 [Oracle / PLSQL: SELECT Statement](https://www.techonthenet.com/oracle/select.php)\
 [Oracle / PLSQL: INSERT Statement](https://www.techonthenet.com/oracle/insert.php)\
