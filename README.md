@@ -20,4 +20,5 @@
 
 # Single Row Functions(SRFS)
 [Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
-[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)\
+[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
