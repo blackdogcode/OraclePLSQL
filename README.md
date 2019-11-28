@@ -51,7 +51,8 @@
 
 # Oracle Tables and Views
 [Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
-[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)
+[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
+[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)
 
 # Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
