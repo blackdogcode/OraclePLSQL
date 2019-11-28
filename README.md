@@ -15,3 +15,4 @@
 [SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)\
 [SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
 [SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)
+# Single Row Function
