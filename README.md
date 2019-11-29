@@ -17,6 +17,7 @@
 [Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)\
 [Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)\
 [DESCRIBE Command](https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040)\
+[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
 
 # Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
@@ -83,5 +84,4 @@
 
 # Others
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
-[Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)\
-[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
+[Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)
