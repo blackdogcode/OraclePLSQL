@@ -4,6 +4,10 @@
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
 [Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)
 
+# Tools
+[ER-Diagram Lucid Chart](https://www.lucidchart.com/)\
+[What is an Entity Relationship Diagram (ERD)?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
+
 # Oracle PL/SQL Data Type
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)
 
