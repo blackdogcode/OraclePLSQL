@@ -9,7 +9,8 @@
 
 # Oracle PL/SQL Data Type and Comment
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)\
-[Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)
+[Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)\
+[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)
 
 # Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
@@ -61,12 +62,12 @@
 [Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
 [Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)\
 [Oracle / PLSQL: VIEW](https://www.techonthenet.com/oracle/views.php)\
-[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
+[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)\
 
 ![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
 ![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
 
-[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)
+[Oracle / PLSQL: Oracle System Tables](https://www.techonthenet.com/oracle/sys_tables/index.php)
 
 # Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
