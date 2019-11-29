@@ -1,10 +1,10 @@
-# Oracle PL/SQL
-[Oracle Apex Workshop](https://apex.oracle.com/en/)\
+# Oracle PL/SQL Reference
 [Oracle PL/SQL](https://www.techonthenet.com/oracle/index.php), [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)\
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
 [Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)
 
 # Tools
+[Oracle Apex Workshop](https://apex.oracle.com/en/)\
 [ER-Diagram Lucid Chart](https://www.lucidchart.com/)\
 [What is an Entity Relationship Diagram (ERD)?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
 
