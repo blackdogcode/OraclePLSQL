@@ -62,7 +62,7 @@
 [Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
 [Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)\
 [Oracle / PLSQL: VIEW](https://www.techonthenet.com/oracle/views.php)\
-[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)\
+[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
 
 ![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
 ![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
