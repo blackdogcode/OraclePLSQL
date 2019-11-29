@@ -23,6 +23,24 @@
 [Oracle / PLSQL: Check Constraints](https://www.techonthenet.com/oracle/check.php)\
 [Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
 
+# Single Row Functions(SRFS)
+[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
+[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+
+# DDL - Oracle Tables and Views
+[Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
+[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
+[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)\
+[Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
+[Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)\
+[Oracle / PLSQL: VIEW](https://www.techonthenet.com/oracle/views.php)\
+[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
+
+![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
+![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
+
+[Oracle / PLSQL: Oracle System Tables](https://www.techonthenet.com/oracle/sys_tables/index.php)
+
 # DML- Oracle Query Types
 [Oracle / PLSQL: SELECT Statement](https://www.techonthenet.com/oracle/select.php)\
 [Oracle / PLSQL: INSERT Statement](https://www.techonthenet.com/oracle/insert.php)\
@@ -40,11 +58,7 @@
 [SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)\
 [SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
 
-# Single Row Functions(SRFS)
-[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
-[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
-
-# Grouping Functions
+# DCL -
 
 # Oracle Set Operations
 [Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)\
@@ -60,20 +74,6 @@
 
 # Oracle Conditions
 [EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
-
-# DDL - Oracle Tables and Views
-[Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
-[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
-[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)\
-[Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
-[Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)\
-[Oracle / PLSQL: VIEW](https://www.techonthenet.com/oracle/views.php)\
-[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
-
-![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
-![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
-
-[Oracle / PLSQL: Oracle System Tables](https://www.techonthenet.com/oracle/sys_tables/index.php)
 
 # Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
