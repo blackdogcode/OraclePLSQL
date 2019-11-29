@@ -65,6 +65,8 @@
 ![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
 ![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
 
+[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)
+
 # Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
 
