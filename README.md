@@ -7,10 +7,11 @@
 [Oracle Apex Workshop (Cloud)](https://apex.oracle.com/en/)\
 [ER-Diagram Lucid Chart](https://www.lucidchart.com/), [What is an ERD?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
 
-# Oracle PL/SQL Data Type and Comment
+# Oracle PL/SQL Basic Ref
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)\
 [Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)\
-[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)
+[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)\
+[DESCRIBE Command](https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040)
 
 # Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
