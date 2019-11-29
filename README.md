@@ -46,8 +46,9 @@
 
 # Grouping Functions
 
-# Oracle Joins
-[Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)
+# Oracle Joins/Union
+[Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)\
+[Union Vs. Union All](https://www.c-sharpcorner.com/blogs/sql-server-union-vs-union-all-which-is-better-for-performance)
 
 <uo>
 <li>Oracle INNER JOIN (or sometimes called simple join)</li>
