@@ -5,8 +5,7 @@
 
 # Tools
 [Oracle Apex Workshop](https://apex.oracle.com/en/)\
-[ER-Diagram Lucid Chart](https://www.lucidchart.com/)\
-[What is an Entity Relationship Diagram (ERD)?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
+[ER-Diagram Lucid Chart](https://www.lucidchart.com/), [What is an ERD?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
 
 # Oracle PL/SQL Data Type
 [Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)
