@@ -53,10 +53,12 @@
 # Oracle Conditions
 [EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
 
-# Oracle Tables and Views
+# DML - Oracle Tables and Views
 [Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
 [Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
-[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)
+[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)\
+[Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
+[Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)
 
 # Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
