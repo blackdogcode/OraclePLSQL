@@ -5,7 +5,7 @@
 [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
 # Tools
-[Oracle Apex Workshop (Cloud)](https://apex.oracle.com/en/)\
+[Oracle Apex Workshop Cloud](https://apex.oracle.com/en/)\
 [ER-Diagram Lucid Chart](https://www.lucidchart.com/), [What is an ERD?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
 
 # Oracle PL/SQL Basic Ref
