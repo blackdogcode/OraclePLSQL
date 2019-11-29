@@ -18,9 +18,10 @@
 [Oracle / PLSQL: Check Constraints](https://www.techonthenet.com/oracle/check.php)\
 [Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
 
-# Oracle Query Types
+# DML- Oracle Query Types
 [Oracle / PLSQL: SELECT Statement](https://www.techonthenet.com/oracle/select.php)\
 [Oracle / PLSQL: INSERT Statement](https://www.techonthenet.com/oracle/insert.php)\
+[Oracle / PLSQL: DELETE Statement](https://www.techonthenet.com/oracle/delete.php)\
 [SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)\
 [SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)\
 [SQL AND, OR and NOT Operators](https://www.w3schools.com/sql/sql_and_or.asp)\
@@ -53,7 +54,7 @@
 # Oracle Conditions
 [EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
 
-# DML - Oracle Tables and Views
+# DDL - Oracle Tables and Views
 [Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
 [Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
 [Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)\
