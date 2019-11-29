@@ -1,7 +1,8 @@
 # Oracle PL/SQL Reference
-[Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
-[Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
-[Oracle PL/SQL](https://www.techonthenet.com/oracle/index.php), [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
+[Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
+[Oracle - Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
+[Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
+[W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
 # Tools
 [Oracle Apex Workshop (Cloud)](https://apex.oracle.com/en/)\
