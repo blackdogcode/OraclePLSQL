@@ -13,7 +13,7 @@
 [Oracle / PLSQL: Oracle Error Messages](https://www.techonthenet.com/oracle/errors/index.php)\
 [Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)\
 [Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)\
-[DESCRIBE Command](https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040)\
+[DESCRIBE Command](https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040)
 
 
 # Oracle Keys, Constraints and Indexes
