@@ -1,7 +1,7 @@
 # Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)
 
-# Oracle PL/SQL Reference
+# Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 [Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle - Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
