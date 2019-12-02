@@ -7,6 +7,10 @@
 [Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
 [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
+# Oracle Programming
+[PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
+[Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
+
 # Tools
 [Oracle Apex Workshop Cloud](https://apex.oracle.com/en/)\
 [ER-Diagram Lucid Chart](https://www.lucidchart.com/), [What is an ERD?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
@@ -78,9 +82,6 @@
 <li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
 <li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
 </uo>
-
-# Oracle Programming
-[Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
 
 # Others
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
