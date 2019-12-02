@@ -79,7 +79,7 @@
 <li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
 </uo>
 
-# TCL - Oracle
+# Oracle Programming
 [Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
 
 # Others
