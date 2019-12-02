@@ -9,7 +9,8 @@
 
 # Oracle Programming
 [PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
-[Oracle / PLSQL: Transactions](https://www.techonthenet.com/oracle/transactions/index.php)
+[PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
+[PL/SQL - Transactions](https://www.tutorialspoint.com/plsql/plsql_transactions.htm)
 
 # Tools
 [Oracle Apex Workshop Cloud](https://apex.oracle.com/en/)\
