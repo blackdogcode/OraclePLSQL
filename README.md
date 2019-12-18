@@ -1,6 +1,7 @@
 # Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
-[Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)
+[Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
+[Programmers SQL Coding Test](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=coding_test&gclid=CjwKCAiAluLvBRASEiwAAbX3GaAIGgpDsG9SaktErZgK5oZitmC0PIkK-pOvv53DATouzJalhFLADRoCzv4QAvD_BwE)
 
 # Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 [Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
