@@ -1,5 +1,6 @@
 ## Articles
-[What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)
+[What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
+[NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
 
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
