@@ -1,9 +1,12 @@
-## Articles
+\## Articles
 [What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
 [NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)\
 [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)\
 [What is data modeling – An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)\
-[Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
+[Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)\
+[Dataconomy: SQL vs. NoSQL - What You Need to Know](http://dataconomy.com/2014/07/sql-vs-nosql-need-know/)\
+[TechRepublic: NoSQL keeps rising, but relational databases still dominate big data](http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/)\
+[SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
 
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
