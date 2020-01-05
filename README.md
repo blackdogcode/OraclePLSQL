@@ -1,4 +1,4 @@
-\## Articles
+## Articles
 [What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
 [NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)\
 [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)\
