@@ -1,6 +1,9 @@
 ## Articles
 [What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
-[NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
+[NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)\
+[Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)\
+[What is data modeling – An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)\
+[Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
