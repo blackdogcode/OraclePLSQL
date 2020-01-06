@@ -7,9 +7,16 @@
 [Dataconomy: SQL vs. NoSQL - What You Need to Know](http://dataconomy.com/2014/07/sql-vs-nosql-need-know/)\
 [TechRepublic: NoSQL keeps rising, but relational databases still dominate big data](http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/)\
 [SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
+
 <h4>SQL for R</h4>
+<uo>
+  <li><a href="https://cran.r-project.org/web/packages/sqldf/index.html">SQLDF Package</a></li>
+</uo>
+
 <h4>SQL for Spark</h4>
+
 <h4>SQL with Hadoop</h4>
+
 <h4>SQL for Python</h4>
 
 ## Oracle Certificate
