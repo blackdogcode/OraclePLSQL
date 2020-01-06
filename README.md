@@ -23,7 +23,7 @@
 
 <h4>SQL with Hadoop</h4>
 <uo>
-  <li><a href="https://hive.apache.org/">Overview</a>Hive Overview</li>
+  <li><a href="https://hive.apache.org/">Hive Overview</a></li>
   <li><a href="https://cwiki.apache.org/confluence/display/Hive/LanguageManual">Documentation</a></li>
 </uo>
 
