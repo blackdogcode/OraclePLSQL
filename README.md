@@ -7,6 +7,10 @@
 [Dataconomy: SQL vs. NoSQL - What You Need to Know](http://dataconomy.com/2014/07/sql-vs-nosql-need-know/)\
 [TechRepublic: NoSQL keeps rising, but relational databases still dominate big data](http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/)\
 [SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
+<h3>SQL for R</h3>
+<h3>SQL for Spark</h3>
+<h3>SQL with Hadoop</h3>
+<h3>SQL for Python</h3>
 
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
