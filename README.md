@@ -18,7 +18,7 @@
 <h4>SQL for Spark</h4>
 <uo>
   <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html#overview">Overview</a></li>
-  <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">Documentation</a>Documentation</li>
+  <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">Documentation</a></li>
 </uo>
 
 <h4>SQL with Hadoop</h4>
