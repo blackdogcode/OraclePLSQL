@@ -11,13 +11,26 @@
 <h4>SQL for R</h4>
 <uo>
   <li><a href="https://cran.r-project.org/web/packages/sqldf/index.html">SQLDF Package</a></li>
+  <li><a href="https://cran.r-project.org/web/packages/sqldf/sqldf.pdf">Documentation</a></li>
+  <li><a href="https://www.r-bloggers.com/manipulating-data-frames-using-sqldf-a-brief-overview/">Examples</a></li>
 </uo>
 
 <h4>SQL for Spark</h4>
+<uo>
+  <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html#overview">Overview</a></li>
+  <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">Documentation</a>Documentation</li>
+</uo>
 
 <h4>SQL with Hadoop</h4>
+<uo>
+  <li><a href="https://hive.apache.org/">Overview</a>Hive Overview</li>
+  <li><a href="https://cwiki.apache.org/confluence/display/Hive/LanguageManual">Documentation</a></li>
+</uo>
 
 <h4>SQL for Python</h4>
+<uo>
+  <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
+</uo>
 
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
