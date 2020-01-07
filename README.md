@@ -32,6 +32,9 @@
   <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
 </uo>
 
+[Thinking in SQL vs Thinking in Python](https://mode.com/blog/learning-python-sql/)\
+[Difference Between Union and Union All - Optimal Performance Comparison](https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all)
+
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
 [Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
