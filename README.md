@@ -30,9 +30,9 @@
 <h4>SQL for Python</h4>
 <uo>
   <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
+  <li><a href="https://mode.com/blog/learning-python-sql">Thinking in SQL vs Thinking in Python</a></li>
 </uo>
 
-[Thinking in SQL vs Thinking in Python](https://mode.com/blog/learning-python-sql/)\
 [Difference Between Union and Union All - Optimal Performance Comparison](https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all)\
 [Subqueries versus Joins](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
 
