@@ -128,4 +128,6 @@
 
 ## Others
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
-[Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)
+[Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)\
+[SQL Authority: SQL Puzzles](https://blog.sqlauthority.com/category/sql-puzzle/)\
+[SQLZOO](https://sqlzoo.net/)
