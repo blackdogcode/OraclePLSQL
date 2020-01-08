@@ -36,6 +36,8 @@
 [Difference Between Union and Union All - Optimal Performance Comparison](https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all)\
 [Subqueries versus Joins](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
 
+![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
+
 ## Oracle Certificate
 [Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
 [Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
