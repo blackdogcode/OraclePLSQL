@@ -1,0 +1,325 @@
+Part 1: Yelp Dataset Profiling and Understanding
+
+1. Profile the data by finding the total number of records for each of the tables below:
+	
+	SQL code used to arrive at answer:
+	
+	SELECT COUNT(*)
+	FROM <table name>;
+	
+i. Attribute table = 10000
+ii. Business table = 10000
+iii. Category table = 10000
+iv. Checkin table = 10000
+v. elite_years table = 10000
+vi. friend table = 10000
+vii. hours table = 10000
+viii. photo table = 10000
+ix. review table = 10000
+x. tip table = 10000
+xi. user table = 10000
+	
+
+
+2. Find the total distinct records by either the foreign key or primary key for each table. If two foreign keys are listed in the table, please specify which foreign key.
+
+	SQL code used to arrive at answer:
+
+	--Incase primary key: primary keys are always distinct and is not null by primary key constraint
+	SELECT COUNT(*)
+	FROM <table name>;
+
+	--Incase foregin key
+	SELECT COUNT(DISTINCT <foregin key>)
+	FROM <table name>;
+
+i. Business = 10000(id: primary key)
+ii. Hours = 1562(business_id: foregin key)
+iii. Category = 2643(business_id: foregin key)
+iv. Attribute = 1115(business_id: foregin key)
+v. Review = 10000(id: primary key), 8090(business_id: foregin key), 9581(user_id: foregin key)
+vi. Checkin = 493(business_id: foregin key)
+vii. Photo = 10000(id: primary key), 6493(business_id: foregin key)
+viii. Tip = 537(user_id: foregin key), 3979(business_id: foregin key)
+ix. User = 10000(id: primary key)
+x. Friend = 11(user_id: foregin key)
+xi. Elite_years = 2780(user_id: foregin key)
+
+Note: Primary Keys are denoted in the ER-Diagram with a yellow key icon.	
+
+
+
+3. Are there any columns with null values in the Users table? Indicate "yes," or "no."
+
+	Answer: 0
+	
+	SQL code used to arrive at answer:
+	
+	--user table has 20 columns
+	--number in where conditions is each column number
+	SELECT COUNT(*)
+	FROM user
+	WHERE 1 IS NULL OR 2 IS NULL OR 3 IS NULL OR 4 IS NULL OR 5 IS NULL OR 6 IS NULL OR 7 IS NULL OR 8 IS NULL OR 
+		  9 IS NULL OR 10 IS NULL OR 11 IS NULL OR 12 IS NULL OR 13 IS NULL OR 14 IS NULL OR 15 IS NULL OR 
+		  16 IS NULL OR 17 IS NULL OR 18 IS NULL OR 19 IS NULL OR 20 IS NULL;
+
+	
+4. For each table and column listed below, display the smallest (minimum), largest (maximum), and average (mean) value for the following fields:
+
+	SQL code used to arrive at answer:
+	
+	SELECT MIN(<column name>), MAX(<column name>), AVG(<column name>)
+	FROM <table name>;
+	
+	i. Table: Review, Column: Stars
+	
+		min: 1		max: 5		avg: 3.7082
+		
+	
+	ii. Table: Business, Column: Stars
+	
+		min: 1.0	max: 5.0	avg: 3.6549
+		
+	
+	iii. Table: Tip, Column: Likes
+	
+		min: 0		max: 2		avg: 0.0144
+		
+	
+	iv. Table: Checkin, Column: Count
+	
+		min: 1		max: 53		avg: 1.9414
+		
+	
+	v. Table: User, Column: Review_count
+	
+		min: 0		max: 2000	avg: 24.2995
+		
+
+
+5. List the cities with the most reviews in descending order:
+
+	SQL code used to arrive at answer:
+	
+	SELECT city, SUM(review_count)
+	FROM business
+	GROUP BY city
+	ORDER BY SUM(review_count);
+
+	Copy and Paste the Result Below:
+	
+	+------------------+-------------------+
+	| city             | SUM(review_count) |
+	+------------------+-------------------+
+	| Blainville       |                 3 |
+	| Bolton           |                 3 |
+	| Braddock         |                 3 |
+	| Brooklin         |                 3 |
+	| Brooklyn Heights |                 3 |
+	| Dallas           |                 3 |
+	| East Gwillimbury |                 3 |
+	| Firth of Forth   |                 3 |
+	| Fort McDowell    |                 3 |
+	| Glenshaw         |                 3 |
+	| Gormley          |                 3 |
+	| Haddington       |                 3 |
+	| Ingliston        |                 3 |
+	| Kahnawake        |                 3 |
+	| Kennedy Township |                 3 |
+	| King             |                 3 |
+	| Kirtland         |                 3 |
+	| L'ile-Bizard     |                 3 |
+	| McFarland        |                 3 |
+	| Middleburg Hts   |                 3 |
+	| Monticello       |                 3 |
+	| Möglingen        |                 3 |
+	| Nellis AFB       |                 3 |
+	| Neuhausen        |                 3 |
+	| North Randall    |                 3 |
+	+------------------+-------------------+
+	(Output limit exceeded, 25 of 362 total rows shown)
+
+	
+6. Find the distribution of star ratings to the business in the following cities:
+
+i. Avon
+
+	SQL code used to arrive at answer:
+
+
+	Copy and Paste the Resulting Table Below (2 columns ?star rating and count):
+
+
+ii. Beachwood
+
+	SQL code used to arrive at answer:
+
+
+	Copy and Paste the Resulting Table Below (2 columns ?star rating and count):
+		
+
+
+7. Find the top 3 users based on their total number of reviews:
+		
+	SQL code used to arrive at answer:
+	
+	SELECT *
+	FROM user
+	ORDER BY user.review_count DESC
+	LIMIT 3;
+		
+	Copy and Paste the Result Below:
+		
+	+------------------------+--------+--------------+---------------------+--------+-------+-------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+	| id                     | name   | review_count | yelping_since       | useful | funny |  cool | fans | average_stars | compliment_hot | compliment_more | compliment_profile | compliment_cute | compliment_list | compliment_note | compliment_plain | compliment_cool | compliment_funny | compliment_writer | compliment_photos |
+	+------------------------+--------+--------------+---------------------+--------+-------+-------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+	| -G7Zkl1wIWBBmD0KRy_sCw | Gerald |         2000 | 2012-12-16 00:00:00 |  17524 |  2324 | 15008 |  253 |           3.6 |            206 |              58 |                 19 |               1 |               0 |             352 |              667 |             704 |              704 |               430 |               220 |
+	| -3s52C4zL_DHRK0ULG6qtg | Sara   |         1629 | 2010-05-16 00:00:00 |     25 |    10 |     2 |   50 |          3.42 |             11 |               6 |                  1 |               2 |               0 |              19 |               44 |              16 |               16 |                11 |                 2 |
+	| -8lbUNlXVSoXqaRRiHiSNg | Yuri   |         1339 | 2008-01-03 00:00:00 |   1166 |   220 |   561 |   76 |          4.11 |            109 |               8 |                  6 |               3 |              14 |              34 |               79 |              91 |               91 |                41 |                47 |
+	+------------------------+--------+--------------+---------------------+--------+-------+-------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+
+8. Does posing more reviews correlate with more fans?
+
+	SQL code used to arrive at answer:
+	
+	SELECT review_count, fans
+	FROM user
+	ORDER BY review_count DESC;
+	
+	Copy and Paste the Result Below:
+	
+	+--------------+------+
+	| review_count | fans |
+	+--------------+------+
+	|         2000 |  253 |
+	|         1629 |   50 |
+	|         1339 |   76 |
+	|         1246 |  101 |
+	|         1215 |  126 |
+	|         1153 |  311 |
+	|         1116 |   16 |
+	|         1039 |  104 |
+	|          968 |  497 |
+	|          930 |  173 |
+	|          904 |   38 |
+	|          864 |   43 |
+	|          862 |  124 |
+	|          861 |  115 |
+	|          842 |   85 |
+	|          836 |   37 |
+	|          834 |  120 |
+	|          813 |  159 |
+	|          775 |   61 |
+	|          754 |   78 |
+	|          702 |   35 |
+	|          696 |   10 |
+	|          694 |  101 |
+	|          676 |   25 |
+	|          675 |   45 |
+	+--------------+------+
+	(Output limit exceeded, 25 of 10000 total rows shown)
+	
+	Please explain your findings and interpretation of the results:
+	
+	They are is not that correlated with R² = 0.0857
+	
+	
+	
+9. Are there more reviews with the word "love" or with the word "hate" in them?
+
+	Answer:
+
+	
+	SQL code used to arrive at answer:
+
+	Copy and Paste the Result Below:
+	
+	
+10. Find the top 10 users with the most fans:
+
+	SQL code used to arrive at answer:
+	
+	SELECT *
+	FROM user
+	ORDER BY fans DESC
+	LIMIT 10;
+	
+	Copy and Paste the Result Below:
+
+	+------------------------+-----------+--------------+---------------------+--------+--------+--------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+	| id                     | name      | review_count | yelping_since       | useful |  funny |   cool | fans | average_stars | compliment_hot | compliment_more | compliment_profile | compliment_cute | compliment_list | compliment_note | compliment_plain | compliment_cool | compliment_funny | compliment_writer | compliment_photos |
+	+------------------------+-----------+--------------+---------------------+--------+--------+--------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+	| -9I98YbNQnLdAmcYfb324Q | Amy       |          609 | 2007-07-19 00:00:00 |   3226 |   2554 |   2751 |  503 |          3.21 |           2370 |             154 |                145 |             281 |              26 |             751 |             1154 |            2950 |             2950 |               709 |               245 |
+	| -8EnCioUmDygAbsYZmTeRQ | Mimi      |          968 | 2011-03-30 00:00:00 |    257 |    138 |    159 |  497 |          4.05 |            983 |              68 |                 54 |             137 |              31 |             340 |              482 |             725 |              725 |               326 |               471 |
+	| --2vR0DIsmQ6WfcSzKWigw | Harald    |         1153 | 2012-11-27 00:00:00 | 122921 | 122419 | 122890 |  311 |           4.4 |           7246 |            2204 |               2367 |            1176 |             990 |            3239 |            12102 |           12008 |            12008 |              5772 |             22219 |
+	| -G7Zkl1wIWBBmD0KRy_sCw | Gerald    |         2000 | 2012-12-16 00:00:00 |  17524 |   2324 |  15008 |  253 |           3.6 |            206 |              58 |                 19 |               1 |               0 |             352 |              667 |             704 |              704 |               430 |               220 |
+	| -0IiMAZI2SsQ7VmyzJjokQ | Christine |          930 | 2009-07-08 00:00:00 |   4834 |   6646 |   4321 |  173 |          3.69 |            168 |              29 |                 39 |               8 |              28 |             101 |              194 |             242 |              242 |               202 |               104 |
+	| -g3XIcCb2b-BD0QBCcq2Sw | Lisa      |          813 | 2009-10-05 00:00:00 |     48 |     13 |      6 |  159 |          4.09 |             85 |              15 |                  6 |               4 |              11 |              52 |               76 |             104 |              104 |               127 |                88 |
+	| -9bbDysuiWeo2VShFJJtcw | Cat       |          377 | 2009-02-05 00:00:00 |   1062 |    672 |   1076 |  133 |          3.99 |            660 |              23 |                 53 |              79 |              14 |             145 |              434 |             612 |              612 |               207 |               147 |
+	| -FZBTkAZEXoP7CYvRV2ZwQ | William   |         1215 | 2015-02-19 00:00:00 |   9363 |   9361 |   9370 |  126 |          4.41 |            100 |              37 |                 12 |               0 |               5 |              83 |              242 |             375 |              375 |                95 |               179 |
+	| -9da1xk7zgnnfO1uTVYGkA | Fran      |          862 | 2012-04-05 00:00:00 |   9851 |   7606 |   9344 |  124 |           4.1 |           2334 |              71 |                 94 |              43 |               1 |             647 |             1695 |            4285 |             4285 |               748 |              2428 |
+	| -lh59ko3dxChBSZ9U7LfUw | Lissa     |          834 | 2007-08-14 00:00:00 |    455 |    150 |    342 |  120 |          3.68 |            417 |              35 |                 57 |              17 |              21 |             113 |              308 |             482 |              482 |               346 |                24 |
+	+------------------------+-----------+--------------+---------------------+--------+--------+--------+------+---------------+----------------+-----------------+--------------------+-----------------+-----------------+-----------------+------------------+-----------------+------------------+-------------------+-------------------+
+	
+11. Is there a strong relationship (or correlation) between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans, what percent are also listed as 뱔seful?or 밼unny?
+
+	Key:
+	0% - 25% - Low relationship
+	26% - 75% - Medium relationship
+	76% - 100% - Strong relationship
+		
+	SQL code used to arrive at answer:
+	
+	
+	Copy and Paste the Result Below:
+	
+	
+	Please explain your findings and interpretation of the results:
+	
+	
+	
+
+Part 2: Inferences and Analysis
+
+1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.
+	
+i. Do the two groups you chose to analyze have a different distribution of hours?
+
+
+ii. Do the two groups you chose to analyze have a different number of reviews?
+         
+         
+iii. Are you able to infer anything from the location data provided between these two groups? Explain.
+
+SQL code used for analysis:
+
+		
+		
+2. Group business based on the ones that are open and the ones that are closed. What differences can you find between the ones that are still open and the ones that are closed? List at least two differences and the SQL code you used to arrive at your answer.
+		
+i. Difference 1:
+         
+         
+ii. Difference 2:
+         
+         
+         
+SQL code used for analysis:
+
+	
+	
+3. For this last part of your analysis, you are going to choose the type of analysis you want to conduct on the Yelp dataset and are going to prepare the data for analysis.
+
+Ideas for analysis include: Parsing out keywords and business attributes for sentiment analysis, clustering businesses to find commonalities or anomalies between them, predicting the overall star rating for a business, predicting the number of fans a user will have, and so on. These are just a few examples to get you started, so feel free to be creative and come up with your own problem you want to solve. Provide answers, in-line, to all of the following:
+	
+i. Indicate the type of analysis you chose to do:
+         
+         
+ii. Write 1-2 brief paragraphs on the type of data you will need for your analysis and why you chose that data:
+                           
+                  
+iii. Output of your finished dataset:
+         
+         
+iv. Provide the SQL code you used to create your final dataset:
+
