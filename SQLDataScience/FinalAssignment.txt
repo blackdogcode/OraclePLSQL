@@ -146,17 +146,37 @@ i. Avon
 
 	SQL code used to arrive at answer:
 
+	-- https://en.wikipedia.org/wiki/Variance
+	SELECT SUM((stars - (SELECT AVG(stars) FROM business)) *
+			   (stars - (SELECT AVG(stars) FROM business))) / (COUNT(stars)) as Variance, COUNT(stars)
+	FROM business
+	WHERE city = 'Avon';
 
 	Copy and Paste the Resulting Table Below (2 columns ?star rating and count):
 
+	+------------+--------------+
+	|   Variance | COUNT(stars) |
+	+------------+--------------+
+	| 1.01448401 |           10 |
+	+------------+--------------+
 
 ii. Beachwood
 
 	SQL code used to arrive at answer:
 
+	-- https://en.wikipedia.org/wiki/Variance
+	SELECT SUM((stars - (SELECT AVG(stars) FROM business))*
+			   (stars - (SELECT AVG(stars) FROM business)) ) / COUNT(stars) as Variance, COUNT(stars)
+	FROM business
+	WHERE city = 'Beachwood';
 
 	Copy and Paste the Resulting Table Below (2 columns ?star rating and count):
-		
+	
+	+---------------+--------------+
+	|      Variance | COUNT(stars) |
+	+---------------+--------------+
+	| 1.11230115286 |           14 |
+	+---------------+--------------+
 
 
 7. Find the top 3 users based on their total number of reviews:
@@ -182,58 +202,48 @@ ii. Beachwood
 
 	SQL code used to arrive at answer:
 	
-	SELECT review_count, fans
-	FROM user
-	ORDER BY review_count DESC;
+	--https://www.investopedia.com/terms/r/r-squared.asp
+	SELECT AVG((review_count - avg_x) * (fans - avg_y)) * 
+		   AVG((review_count - avg_x) * (fans - avg_y) ) / (var_x*var_y) as R_Square
+	FROM user, (SELECT avg_x, avg_y,
+					AVG((review_count - avg_x) * (review_count - avg_x)) as var_x, 
+					AVG((fans - avg_y) * (fans - avg_y)) as var_y 
+				FROM user, (SELECT AVG(review_count) as avg_x, 
+								   AVG(fans) as avg_y 
+							FROM user)
+				);
 	
 	Copy and Paste the Result Below:
 	
-	+--------------+------+
-	| review_count | fans |
-	+--------------+------+
-	|         2000 |  253 |
-	|         1629 |   50 |
-	|         1339 |   76 |
-	|         1246 |  101 |
-	|         1215 |  126 |
-	|         1153 |  311 |
-	|         1116 |   16 |
-	|         1039 |  104 |
-	|          968 |  497 |
-	|          930 |  173 |
-	|          904 |   38 |
-	|          864 |   43 |
-	|          862 |  124 |
-	|          861 |  115 |
-	|          842 |   85 |
-	|          836 |   37 |
-	|          834 |  120 |
-	|          813 |  159 |
-	|          775 |   61 |
-	|          754 |   78 |
-	|          702 |   35 |
-	|          696 |   10 |
-	|          694 |  101 |
-	|          676 |   25 |
-	|          675 |   45 |
-	+--------------+------+
-	(Output limit exceeded, 25 of 10000 total rows shown)
+	+----------------+
+	|       R_Square |
+	+----------------+
+	| 0.437136492915 |
+	+----------------+
 	
-	Please explain your findings and interpretation of the results:
-	
-	They are is not that correlated with R² = 0.0857
+	Following the result of R_Square. review and fans are partly correlated.
 	
 	
 	
 9. Are there more reviews with the word "love" or with the word "hate" in them?
 
-	Answer:
+	Answer: NO. As previous answerd the problem 1.ix there are 10000 tuples in the review table.
+			1958 < 5000, so there less reviews with the word "love" or with the word "hate" in them
 
 	
 	SQL code used to arrive at answer:
+	
+	SELECT COUNT(*)
+	FROM review
+	WHERE text LIKE '%love%' OR text LIKE '%hate%';
 
 	Copy and Paste the Result Below:
 	
+	+----------+
+	| COUNT(*) |
+	+----------+
+	|     1958 |
+	+----------+
 	
 10. Find the top 10 users with the most fans:
 
