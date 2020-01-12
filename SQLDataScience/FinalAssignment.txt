@@ -306,10 +306,7 @@ ii. Beachwood
 	
 		https://en.wikipedia.org/wiki/Correlation_and_dependence
 		
-		corrleation is 0.1408044
-		
-		So there is a low relation ship between having a high number of fans and being listed as "useful" or "funny?" Out of the top 10 users with the highest number of fans
-
+		Answre: Low relationship becuase of corrleation = 0.1408044(14%)
 	
 	
 	SQL code used to arrive at answer:
@@ -342,6 +339,7 @@ Part 2: Inferences and Analysis
 
 1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.
 	
+	
 	i. Do the two groups you chose to analyze have a different distribution of hours?
 
 
@@ -351,9 +349,18 @@ Part 2: Inferences and Analysis
          
 	iii. Are you able to infer anything from the location data provided between these two groups? Explain.
 
-
 			
 	SQL code used for analysis:
+	
+	/*
+SELECT *
+FROM business as b, category as c
+WHERE (b.id = c.business_id)
+*/
+SELECT COUNT(*), c.category
+FROM category as c
+GROUP BY c.category
+ORDER BY COUNT(*) DESC;
 
 		
 2. Group business based on the ones that are open and the ones that are closed. What differences can you find between the ones that are still open and the ones that are closed? List at least two differences and the SQL code you used to arrive at your answer.
