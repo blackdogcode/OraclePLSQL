@@ -306,7 +306,7 @@ ii. Beachwood
 	
 		https://en.wikipedia.org/wiki/Correlation_and_dependence
 		
-		Answre: Low relationship becuase of corrleation = 0.1408044(14%)
+		Answre: Low relationship becuase corrleation is = 14%(0.1408044)
 	
 	
 	SQL code used to arrive at answer:
@@ -343,7 +343,7 @@ Part 2: Inferences and Analysis
 	
 	i. Do the two groups you chose to analyze have a different distribution of hours?
 	
-		Yes distribution 2~3 stars in Toronto usualy on Saturday, but
+		Yes distribution 2~3 stars in Toronto is usualy on Saturday, but
 		distribution 4~5 stars in Toronto usualy on Monday
 
 	ii. Do the two groups you chose to analyze have a different number of reviews?
@@ -354,7 +354,7 @@ Part 2: Inferences and Analysis
          
 	iii. Are you able to infer anything from the location data provided between these two groups? Explain.
 
-		Following the result of 'stars' and 'review_count', best choice for business hours in Toronto is 'Saturday|18:00-23:00'
+		By analysis of result on 'stars' and 'review_count', I think the best choice for business hours in Toronto is 'Saturday|18:00-23:00'
 			
 	SQL code used for analysis:
 	
@@ -378,14 +378,51 @@ Part 2: Inferences and Analysis
 		
 2. Group business based on the ones that are open and the ones that are closed. What differences can you find between the ones that are still open and the ones that are closed? List at least two differences and the SQL code you used to arrive at your answer.
 		
+		
 	i. Difference 1: Open businesses have more reviews than closed businesses.
-         
+
+		Answer: Yes, there are more review on business which is open than closed.
+		
+		+---------+-------------------+
+		| is_open | SUM(review_count) |
+		+---------+-------------------+
+		|       0 |             35261 |
+		|       1 |            269300 |
+		+---------+-------------------+
    
+		SQL code used for analysis:
+		
+			SELECT is_open, SUM(review_count)
+			FROM business
+			GROUP BY is_open;
+	
+	
 	ii. Difference 2: Closed businesses have few stars, so have to close.
              
-         
-	SQL code used for analysis:
-
+		Answer: Reveiw count of stars between 3.5 and 5.0 is greather than that of between 1.0 and 3.0
+				So I think closed business doesn't have to close.
+		
+		SQL code used for analysis:
+	
+			-- stars and review count of closed business
+			SELECT is_open, stars, COUNT(*)
+			FROM business
+			WHERE is_open = 0
+			GROUP BY stars;
+			
+			+---------+-------+----------+
+			| is_open | stars | COUNT(*) |
+			+---------+-------+----------+
+			|       0 |   1.0 |       14 |
+			|       0 |   1.5 |       24 |
+			|       0 |   2.0 |       94 |
+			|       0 |   2.5 |      168 |
+			|       0 |   3.0 |      272 |
+			|       0 |   3.5 |      295 |
+			|       0 |   4.0 |      326 |
+			|       0 |   4.5 |      189 |
+			|       0 |   5.0 |      138 |
+			+---------+-------+----------+
 
 	
 3. For this last part of your analysis, you are going to choose the type of analysis you want to conduct on the Yelp dataset and are going to prepare the data for analysis.
