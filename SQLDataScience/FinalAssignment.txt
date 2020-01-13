@@ -399,46 +399,87 @@ Part 2: Inferences and Analysis
 	
 	ii. Difference 2: Closed businesses have few stars, so have to close.
              
-		Answer: Reveiw count of stars between 3.5 and 5.0 is greather than that of between 1.0 and 3.0
+		Answer: The summation of reveiw count of stars between 3.5 and 5.0 is greather than that of between 1.0 and 3.0
 				So I think closed business doesn't have to close.
 		
 		SQL code used for analysis:
 	
 			-- stars and review count of closed business
-			SELECT is_open, stars, COUNT(*)
+			SELECT is_open, stars, SUM(review_count)
 			FROM business
 			WHERE is_open = 0
 			GROUP BY stars;
 			
-			+---------+-------+----------+
-			| is_open | stars | COUNT(*) |
-			+---------+-------+----------+
-			|       0 |   1.0 |       14 |
-			|       0 |   1.5 |       24 |
-			|       0 |   2.0 |       94 |
-			|       0 |   2.5 |      168 |
-			|       0 |   3.0 |      272 |
-			|       0 |   3.5 |      295 |
-			|       0 |   4.0 |      326 |
-			|       0 |   4.5 |      189 |
-			|       0 |   5.0 |      138 |
-			+---------+-------+----------+
+			+---------+-------+-------------------+
+			| is_open | stars | SUM(review_count) |
+			+---------+-------+-------------------+
+			|       0 |   1.0 |                68 |
+			|       0 |   1.5 |               219 |
+			|       0 |   2.0 |              1193 |
+			|       0 |   2.5 |              3352 |
+			|       0 |   3.0 |              5898 |
+			|       0 |   3.5 |              9114 |
+			|       0 |   4.0 |              9699 |
+			|       0 |   4.5 |              4881 |
+			|       0 |   5.0 |               837 |
+			+---------+-------+-------------------+
 
 	
 3. For this last part of your analysis, you are going to choose the type of analysis you want to conduct on the Yelp dataset and are going to prepare the data for analysis.
 
 Ideas for analysis include: Parsing out keywords and business attributes for sentiment analysis, clustering businesses to find commonalities or anomalies between them, predicting the overall star rating for a business, predicting the number of fans a user will have, and so on. These are just a few examples to get you started, so feel free to be creative and come up with your own problem you want to solve. Provide answers, in-line, to all of the following:
 	
+	
 	i. Indicate the type of analysis you chose to do:
 
+		Social Networking Analysis: Influence of Power User
 
          
 	ii. Write 1-2 brief paragraphs on the type of data you will need for your analysis and why you chose that data:
 
-
+		I will conduct social networking analysis. I predict the more users have fans, the more they have high score of useful.
+		I filtered top 25 users of who have many fans. 
+		The correlation of top 25 users is (30%)0.300857155 so there seems to be 'medium relationship' between the number of fans and useful.
+		
+		※ https://en.wikipedia.org/wiki/Correlation_and_dependence
                   
 	iii. Output of your finished dataset:
 
-         
+        +------------------------+-----------+------+--------+
+		| id                     | name      | fans | useful |
+		+------------------------+-----------+------+--------+
+		| -9I98YbNQnLdAmcYfb324Q | Amy       |  503 |   3226 |
+		| -8EnCioUmDygAbsYZmTeRQ | Mimi      |  497 |    257 |
+		| --2vR0DIsmQ6WfcSzKWigw | Harald    |  311 | 122921 |
+		| -G7Zkl1wIWBBmD0KRy_sCw | Gerald    |  253 |  17524 |
+		| -0IiMAZI2SsQ7VmyzJjokQ | Christine |  173 |   4834 |
+		| -g3XIcCb2b-BD0QBCcq2Sw | Lisa      |  159 |     48 |
+		| -9bbDysuiWeo2VShFJJtcw | Cat       |  133 |   1062 |
+		| -FZBTkAZEXoP7CYvRV2ZwQ | William   |  126 |   9363 |
+		| -9da1xk7zgnnfO1uTVYGkA | Fran      |  124 |   9851 |
+		| -lh59ko3dxChBSZ9U7LfUw | Lissa     |  120 |    455 |
+		| -B-QEUESGWHPE_889WJaeg | Mark      |  115 |   4008 |
+		| -DmqnhW4Omr3YhmnigaqHg | Tiffany   |  111 |   1366 |
+		| -cv9PPT7IHux7XUc9dOpkg | bernice   |  105 |    120 |
+		| -DFCC64NXgqrxlO8aLU5rg | Roanna    |  104 |   2995 |
+		| -IgKkE8JvYNWeGu8ze4P8Q | Angela    |  101 |    158 |
+		| -K2Tcgh2EKX6e6HqqIrBIQ | .Hon      |  101 |   7850 |
+		| -4viTt9UC44lWCFJwleMNQ | Ben       |   96 |   1180 |
+		| -3i9bhfvrM3F1wsC9XIB8g | Linda     |   89 |   3177 |
+		| -kLVfaJytOJY2-QdQoCcNQ | Christina |   85 |    158 |
+		| -ePh4Prox7ZXnEBNGKyUEA | Jessica   |   84 |   2161 |
+		| -4BEUkLvHQntN6qPfKJP2w | Greg      |   81 |    820 |
+		| -C-l8EHSLXtZZVfUAUhsPA | Nieves    |   80 |   1091 |
+		| -dw8f7FLaUmWR7bfJ_Yf0w | Sui       |   78 |      9 |
+		| -8lbUNlXVSoXqaRRiHiSNg | Yuri      |   76 |   1166 |
+		| -0zEEaDFIjABtPQni0XlHA | Nicole    |   73 |     13 |
+		+------------------------+-----------+------+--------+
+		(Output limit exceeded, 25 of 10000 total rows shown) 
+		
 	iv. Provide the SQL code you used to create your final dataset:
+	
+		SELECT u.id, u.name, u.fans, u.useful
+		FROM user as u
+		GROUP BY u.id
+		ORDER BY u.fans DESC
 
