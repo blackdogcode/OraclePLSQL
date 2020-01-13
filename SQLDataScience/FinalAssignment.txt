@@ -337,31 +337,44 @@ ii. Beachwood
 
 Part 2: Inferences and Analysis
 
+
 1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.
 	
 	
 	i. Do the two groups you chose to analyze have a different distribution of hours?
-
+	
+		Yes distribution 2~3 stars in Toronto usualy on Saturday, but
+		distribution 4~5 stars in Toronto usualy on Monday
 
 	ii. Do the two groups you chose to analyze have a different number of reviews?
 
+		Yes, the summation of review(2~3 stars) in Toronto is 54 and
+		(4~5 stars) is 98
 
          
 	iii. Are you able to infer anything from the location data provided between these two groups? Explain.
 
+		Following the result of 'stars' and 'review_count', best choice for business hours in Toronto is 'Saturday|18:00-23:00'
 			
 	SQL code used for analysis:
 	
-	/*
-SELECT *
-FROM business as b, category as c
-WHERE (b.id = c.business_id)
-*/
-SELECT COUNT(*), c.category
-FROM category as c
-GROUP BY c.category
-ORDER BY COUNT(*) DESC;
+		SELECT b.city, b.stars, h.hours, review_count
+		FROM business as b, hours as h
+		WHERE (b.id = h.business_id) AND (b.city = 'Toronto')
+		GROUP BY b.stars;
 
+		+---------+-------+----------------------+--------------+
+		| city    | stars | hours                | review_count |
+		+---------+-------+----------------------+--------------+
+		| Toronto |   2.0 | Saturday|11:00-23:00 |            5 |
+		| Toronto |   2.5 | Saturday|10:00-2:00  |           35 |
+		| Toronto |   3.0 | Saturday|8:00-20:00  |           14 |
+		| Toronto |   3.5 | Saturday|18:00-2:00  |           10 |
+		| Toronto |   4.0 | Saturday|18:00-23:00 |           89 |
+		| Toronto |   4.5 | Monday|11:30-18:00   |            6 |
+		| Toronto |   5.0 | Monday|17:00-22:00   |            3 |
+		+---------+-------+----------------------+--------------+
+		
 		
 2. Group business based on the ones that are open and the ones that are closed. What differences can you find between the ones that are still open and the ones that are closed? List at least two differences and the SQL code you used to arrive at your answer.
 		
