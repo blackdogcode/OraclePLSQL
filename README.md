@@ -14,8 +14,8 @@
 
 ## 1. SQL
 <ul>
-  <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a><li>
-  <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a><li>
+  <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
+  <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a></li>
 </ul>
 
 <h4>SQL for R</h4>
