@@ -1,50 +1,56 @@
 ## 0. Articles
-[What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
-[NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)\
-[The Star Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/) / [The Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-the-snowflake-schema/) / [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)\
-[What is data modeling – An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)\
-[Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)\
-[Dataconomy: SQL vs. NoSQL - What You Need to Know](http://dataconomy.com/2014/07/sql-vs-nosql-need-know/)\
-[TechRepublic: NoSQL keeps rising, but relational databases still dominate big data](http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/)\
-[SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
+<ul>
+  <li><a href="https://www.thebalancecareers.com/what-is-sql-and-uses-2071909">What is SQL and How is it Used?</a></li>
+  <li><a href="https://www.ntchosting.com/encyclopedia/databases/structured-query-language/">NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)</a></li>
+  <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/"></a>The Star Schema</li>
+  <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-snowflake-schema/">The Snowflake Schema</a></li>
+  <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/">Star Schema vs. Snowflake Schema</a></li>
+  <li><a href="http://business-analysis-excellence.com/what-is-data-modeling/">What is data modeling – An Introduction for Business Analysts</a></li>
+  <li><a href="http://www.agiledata.org/essays/dataModeling101.html">Data Modeling 101</a></li>
+  <li><a href="http://dataconomy.com/2014/07/sql-vs-nosql-need-know/">Dataconomy: SQL vs. NoSQL - What You Need to Know</a></li>
+  <li><a href="http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/">TechRepublic: NoSQL keeps rising, but relational databases still dominate big data</a></li>
+  <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
+</ul>
+
+## 1. SQL
 
 <h4>SQL for R</h4>
-<uo>
+<ul>
   <li><a href="https://cran.r-project.org/web/packages/sqldf/index.html">SQLDF Package</a></li>
   <li><a href="https://cran.r-project.org/web/packages/sqldf/sqldf.pdf">Documentation</a></li>
   <li><a href="https://www.r-bloggers.com/manipulating-data-frames-using-sqldf-a-brief-overview/">Examples</a></li>
-</uo>
+</ul>
 
 <h4>SQL for Spark</h4>
-<uo>
+<ul>
   <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html#overview">Overview</a></li>
   <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">Documentation</a></li>
-</uo>
+</ul>
 
 <h4>SQL with Hadoop</h4>
-<uo>
+<ul>
   <li><a href="https://hive.apache.org/">Hive Overview</a></li>
   <li><a href="https://cwiki.apache.org/confluence/display/Hive/LanguageManual">Documentation</a></li>
-</uo>
+</ul>
 
 <h4>SQL for Python</h4>
-<uo>
+<ul>
   <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
   <li><a href="https://mode.com/blog/learning-python-sql">Thinking in SQL vs Thinking in Python</a></li>
-</uo><br>
+</ul><br>
 
 [Difference Between Union and Union All - Optimal Performance Comparison](https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all)\
 [Subqueries versus Joins](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
-## 1. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
+## 2. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 [Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle - Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
 [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
-## 2. Oracle PL/SQL Basic
+## 3. Oracle PL/SQL Basic
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
