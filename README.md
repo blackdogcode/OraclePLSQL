@@ -55,6 +55,7 @@
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/declare_vars.php">Declaring Variable</a></li>
   <li><a href="(https://www.techonthenet.com/oracle/errors/index.php"></a>Oracle / PLSQL: Oracle Error Messages</li>
   <li><a href="https://www.techonthenet.com/oracle/comments.php"></a>Oracle / PLSQL: Comments within SQL</li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm"></a>Pseudocolumns</li>
