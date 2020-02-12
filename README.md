@@ -2,7 +2,7 @@
 <ul>
   <li><a href="https://www.thebalancecareers.com/what-is-sql-and-uses-2071909">What is SQL and How is it Used?</a></li>
   <li><a href="https://www.ntchosting.com/encyclopedia/databases/structured-query-language/">NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)</a></li>
-  <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/"></a>The Star Schema</li>
+  <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/">The Star Schema</a></li>
   <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-snowflake-schema/">The Snowflake Schema</a></li>
   <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/">Star Schema vs. Snowflake Schema</a></li>
   <li><a href="http://business-analysis-excellence.com/what-is-data-modeling/">What is data modeling – An Introduction for Business Analysts</a></li>
