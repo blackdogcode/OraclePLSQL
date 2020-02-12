@@ -50,6 +50,17 @@
 [Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
 [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
+## Oracle PL/SQL Basic
+<ul>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
+  <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
+  <li><a href="(https://www.techonthenet.com/oracle/errors/index.php"></a>Oracle / PLSQL: Oracle Error Messages</li>
+  <li><a href="https://www.techonthenet.com/oracle/comments.php"></a>Oracle / PLSQL: Comments within SQL</li>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm"></a>Pseudocolumns</li>
+  <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040"></a>DESCRIBE Command</li>
+  <li><a href="(https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht"></a>Oracle Dual Table</li>
+</ul>
+
 ## Oracle Programming
 [PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
 [PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
@@ -58,14 +69,6 @@
 ## Tools
 [Oracle Apex Workshop Cloud](https://apex.oracle.com/en/)\
 [ER-Diagram Lucid Chart](https://www.lucidchart.com/), [What is an ERD?](https://www.smartdraw.com/entity-relationship-diagram/#whatIsERD)
-
-## Oracle PL/SQL Basic 
-[Oracle Data Type](https://www.techonthenet.com/oracle/datatypes.php)\
-[Oracle / PLSQL: Oracle Error Messages](https://www.techonthenet.com/oracle/errors/index.php)\
-[Oracle / PLSQL: Comments within SQL](https://www.techonthenet.com/oracle/comments.php)\
-[Pseudocolumns](https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm)\
-[DESCRIBE Command](https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040)\
-[Oracle Dual Table](https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.htm)
 
 ## Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
