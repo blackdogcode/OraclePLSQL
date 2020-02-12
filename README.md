@@ -13,6 +13,10 @@
 </ul>
 
 ## 1. SQL
+<ul>
+  <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a><li>
+  <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a><li>
+</ul>
 
 <h4>SQL for R</h4>
 <ul>
@@ -38,9 +42,6 @@
   <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
   <li><a href="https://mode.com/blog/learning-python-sql">Thinking in SQL vs Thinking in Python</a></li>
 </ul><br>
-
-[Difference Between Union and Union All - Optimal Performance Comparison](https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all)\
-[Subqueries versus Joins](https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
