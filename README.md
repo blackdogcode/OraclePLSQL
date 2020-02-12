@@ -1,4 +1,4 @@
-## Articles
+## 0. Articles
 [What is SQL and How is it Used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)\
 [NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)\
 [The Star Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/) / [The Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-the-snowflake-schema/) / [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)\
@@ -38,13 +38,13 @@
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
-## Oracle PL/SQL(Procedural Language extensions to SQL) Reference
+## 1. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 [Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle - Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle PL/SQL Technet](https://www.techonthenet.com/oracle/index.php)\
 [W3 Schools SQL](https://www.w3schools.com/sql/default.asp)
 
-## Oracle PL/SQL Basic
+## 2. Oracle PL/SQL Basic
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
