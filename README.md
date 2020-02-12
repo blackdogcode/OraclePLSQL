@@ -38,12 +38,6 @@
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
-## Oracle Certificate
-[Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
-[Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
-[Programmers SQL Coding Test](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=coding_test&gclid=CjwKCAiAluLvBRASEiwAAbX3GaAIGgpDsG9SaktErZgK5oZitmC0PIkK-pOvv53DATouzJalhFLADRoCzv4QAvD_BwE)\
-[Full Course Curriculum | Oracle Academy](https://academy.oracle.com/en/training-summary.html)
-
 ## Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 [Oracle - Database Administrator's Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
 [Oracle - Database Performance Tuning Guide](https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm)\
@@ -129,6 +123,12 @@
 <li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
 <li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
 </uo>
+
+## Oracle Certificate
+[Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
+[Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
+[Programmers SQL Coding Test](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=coding_test&gclid=CjwKCAiAluLvBRASEiwAAbX3GaAIGgpDsG9SaktErZgK5oZitmC0PIkK-pOvv53DATouzJalhFLADRoCzv4QAvD_BwE)\
+[Full Course Curriculum | Oracle Academy](https://academy.oracle.com/en/training-summary.html)
 
 ## Others
 [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
