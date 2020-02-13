@@ -65,7 +65,11 @@
 </ul>
 
 
-## Oracle Programming
+## 4. Oracle Programming
+<ul>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
+</ul>
+
 [PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
 [PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
 [PL/SQL - Transactions](https://www.tutorialspoint.com/plsql/plsql_transactions.htm)
