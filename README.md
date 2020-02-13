@@ -67,6 +67,7 @@
 
 ## 4. Oracle Programming
 <ul>
+  <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
 </ul>
 
