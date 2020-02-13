@@ -52,7 +52,7 @@
   <li><a href="https://www.techonthenet.com/oracle/index.php">Oracle PL/SQL Technet</a></li>
 </ul>
 
-## 3. Oracle PL/SQL Basic
+## 3. PL/SQL Basics
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
@@ -66,7 +66,7 @@
 </ul>
 
 
-## 4. Oracle Programming
+## 4. PL/SQL Variables
 <ul>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-variables/">Declaring variables</a></li>
@@ -74,6 +74,15 @@
   <li><a href="https://github.com/Blackdog-Programmer/OraclePLSQL/edit/master/README.md">Scope Rules</a></li>
   <li><a href="https://oracle.readthedocs.io/en/latest/plsql/bind/">Bind Variables</a></li>
 </ul>
+
+
+## 5. PL/SQL Control Structures
+<ul>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2866">IF and CASE Statements</a></li>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i8296">LOOP and EXIT Statements</a></li>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2909">GOTO and NULL Statements</a></li>
+</ul>
+
 
 [PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
 [PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
