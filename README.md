@@ -49,27 +49,26 @@
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Administrator's Guide</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Performance Tuning Guide</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
   <li><a href="https://www.techonthenet.com/oracle/index.php">Oracle PL/SQL Technet</a></li>
 </ul>
 
 ## 3. PL/SQL Basics
 <ul>
-  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
+  <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
-  <li><a href="https://www.techonthenet.com/oracle/declare_vars.php">Declaring Variable</a></li>
-  <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
   <li><a href="https://www.techonthenet.com/oracle/comments.php">Oracle / PLSQL: Comments within SQL</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm">Pseudocolumns</a></li>
   <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040">DESCRIBE Command</a></li>
-  <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
-  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
 </ul>
 
 
 ## 4. PL/SQL Variables
 <ul>
-  <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-variables/">Declaring variables</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
   <li><a href="https://docs.oracle.com/cd/B13789_01/appdev.101/b10807/02_funds.htm">PL SQL Delimiters</a></li>
   <li><a href="https://github.com/Blackdog-Programmer/OraclePLSQL/edit/master/README.md">Scope Rules</a></li>
   <li><a href="https://oracle.readthedocs.io/en/latest/plsql/bind/">Bind Variables</a></li>
