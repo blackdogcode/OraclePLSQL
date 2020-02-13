@@ -58,6 +58,7 @@
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
+  <li><a href="https://docs.oracle.com/database/121/ARPLS/d_output.htm#ARPLS036">DBMS_OUTPUT and SET SERVEROUTPUT ON</a></li>
   <li><a href="https://www.techonthenet.com/oracle/comments.php">Oracle / PLSQL: Comments within SQL</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm">Pseudocolumns</a></li>
   <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040">DESCRIBE Command</a></li>
