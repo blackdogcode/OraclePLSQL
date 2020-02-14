@@ -83,6 +83,10 @@
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2909">GOTO and NULL Statements</a></li>
 </ul>
 
+## 6. SQL in PL/SQL
+<ul>
+  <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-select-into/">SELECT INTO</a></li>
+</ul>  
 
 [PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
 [PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
