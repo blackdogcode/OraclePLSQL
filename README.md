@@ -98,6 +98,11 @@
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
+## 0. Advanced PL/SQL
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
+</ul>
+
 ## Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
 [Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
