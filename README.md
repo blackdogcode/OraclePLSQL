@@ -89,6 +89,11 @@
 [PL/SQL - Transactions](https://www.tutorialspoint.com/plsql/plsql_transactions.htm)
 
 
+## 0. PL/SQL Functions
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
+</ul>  
+
 ## Oracle Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
 [Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
