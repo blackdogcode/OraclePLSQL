@@ -67,7 +67,7 @@
 
 ## 4. PL/SQL Variables
 <ul>
-  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT213">Oracle Data Types</a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/datatypes.htm#LNPLS003">Oracle Data Types</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-variables/">Declaring variables</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
   <li><a href="https://docs.oracle.com/cd/B13789_01/appdev.101/b10807/02_funds.htm">PL SQL Delimiters</a></li>
