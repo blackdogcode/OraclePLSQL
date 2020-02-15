@@ -90,7 +90,7 @@
 
 ## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
-  <li><a href=""> </a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
 </ul>
 
 ## 0. PL/SQL Functions
@@ -160,25 +160,3 @@
 [Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)\
 [Union Vs. Union All](https://www.c-sharpcorner.com/blogs/sql-server-union-vs-union-all-which-is-better-for-performance)\
 [Oracle / PLSQL: MINUS Operator](https://www.techonthenet.com/oracle/minus.php)
-
-<uo>
-<li>Oracle INNER JOIN (or sometimes called simple join)</li>
-<li>Oracle LEFT OUTER JOIN (or sometimes called LEFT JOIN)</li>
-<li>Oracle RIGHT OUTER JOIN (or sometimes called RIGHT JOIN)</li>
-<li>Oracle FULL OUTER JOIN (or sometimes called FULL JOIN)</li>
-</uo>
-
-
-## Oracle Certificate
-[Oracle Database SQL Exam Number: 1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)\
-[Oracle Developer Course](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)\
-[Programmers SQL Coding Test](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=coding_test&gclid=CjwKCAiAluLvBRASEiwAAbX3GaAIGgpDsG9SaktErZgK5oZitmC0PIkK-pOvv53DATouzJalhFLADRoCzv4QAvD_BwE)\
-[Full Course Curriculum | Oracle Academy](https://academy.oracle.com/en/training-summary.html)
-
-
-## Others
-[Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)\
-[Oracle SQL Language](https://www.oracle.com/database/technologies/appdev/sql.html)\
-[SQL Authority: SQL Puzzles](https://blog.sqlauthority.com/category/sql-puzzle/)\
-[SQLZOO](https://sqlzoo.net/)\
-[Yelp Dataset](https://www.yelp.com/dataset/challenge)
