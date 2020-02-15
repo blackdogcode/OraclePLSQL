@@ -84,6 +84,45 @@
 </ul>
 
 ## 6. SQL in PL/SQL
+### 6-1. DDL
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/tables/create_table.php">CREATE TABLE Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/tables/create_table2.php">CREATE TABLE AS Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/tables/alter_table.php">ALTER TABLE Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/tables/drop_table.php">DROP TABLE Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/truncate.php">TRUNCATE TABLE Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/views.php">VIEW</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
+</ul>
+
+### 6-2. DML
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/select.php">SELECT Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/insert.php">INSERT Statement</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/delete.php">DELETE Statement</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_distinct.asp">DISTINCT Statement</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_where.asp">WHERE Clause</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_and_or.asp">AND, OR and NOT Operators</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_operators.asp">Operators</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_in.asp">IN Operator</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_null_values.asp">NULL Values</a></li>
+  <li><a href="https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15">Operator Precedence</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_like.asp">LIKE Operator</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_orderby.asp">ORDER BY Keyword</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_alias.asp">Aliases</a></li>
+  <li><a href="geeksforgeeks.org/sql-concatenation-operator/">|| Concatenation Operator</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_between.asp">BETWEEN Operator</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
+</ul>
+
+### 6-3 DCL
+<ul>
+  <a href="https://www.techonthenet.com/oracle/grant_revoke.php">Grant/Revoke Privileges</a></li>
+  <a href="https://www.techonthenet.com/oracle/roles.php">Roles</a></li>
+  <a href="https://www.techonthenet.com/oracle/password.php">Change a user's password in Oracle</a></li>
+<ul>
+
+### 6-4 Advanced SQL
 <ul>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-select-into/">SELECT INTO</a></li>
 </ul>  
@@ -109,13 +148,12 @@
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
-
 ## 0. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
 </ul>
 
-## Oracle Keys, Constraints and Indexes
+## Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
 [Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
 [Oracle / PLSQL: Unique Constraints](https://www.techonthenet.com/oracle/unique.php)\
@@ -128,14 +166,7 @@
 [SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
 
 
-## DDL - Oracle
-[Oracle / PLSQL: CREATE TABLE Statement](https://www.techonthenet.com/oracle/tables/create_table.php)\
-[Oracle / PLSQL: CREATE TABLE AS Statement](https://www.techonthenet.com/oracle/tables/create_table2.php)\
-[Oracle / PLSQL: ALTER TABLE Statement](https://www.techonthenet.com/oracle/tables/alter_table.php)\
-[Oracle / PLSQL: DROP TABLE Statement](https://www.techonthenet.com/oracle/tables/drop_table.php)\
-[Oracle / PLSQL: TRUNCATE TABLE Statement](https://www.techonthenet.com/oracle/truncate.php)\
-[Oracle / PLSQL: VIEW](https://www.techonthenet.com/oracle/views.php)\
-[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
+
 
 ![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
 ![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
@@ -143,29 +174,6 @@
 [Oracle / PLSQL: Oracle System Tables](https://www.techonthenet.com/oracle/sys_tables/index.php)
 
 
-## DML- Oracle
-[Oracle / PLSQL: SELECT Statement](https://www.techonthenet.com/oracle/select.php)\
-[Oracle / PLSQL: INSERT Statement](https://www.techonthenet.com/oracle/insert.php)\
-[Oracle / PLSQL: DELETE Statement](https://www.techonthenet.com/oracle/delete.php)\
-[SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)\
-[SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)\
-[SQL AND, OR and NOT Operators](https://www.w3schools.com/sql/sql_and_or.asp)\
-[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)\
-[SQL IN Operator](https://www.w3schools.com/sql/sql_in.asp)\
-[SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)\
-[Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15)\
-[SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)\
-[SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)\
-[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)\
-[SQL || Concatenation Operator](geeksforgeeks.org/sql-concatenation-operator/)\
-[SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)\
-[EXISTS Condition](https://www.techonthenet.com/oracle/exists.php)
-
-
-## DCL - Oracle
-[Oracle / PLSQL: Grant/Revoke Privileges](https://www.techonthenet.com/oracle/grant_revoke.php)
-[Oracle / PLSQL: Roles](https://www.techonthenet.com/oracle/roles.php)\
-[Oracle / PLSQL: Change a user's password in Oracle](https://www.techonthenet.com/oracle/password.php)
 
 
 ## Oracle Set Operations
