@@ -120,7 +120,7 @@
   <a href="https://www.techonthenet.com/oracle/grant_revoke.php">Grant/Revoke Privileges</a></li>
   <a href="https://www.techonthenet.com/oracle/roles.php">Roles</a></li>
   <a href="https://www.techonthenet.com/oracle/password.php">Change a user's password in Oracle</a></li>
-<ul>
+</ul>
 
 ### 6-4 Advanced SQL
 <ul>
