@@ -91,6 +91,7 @@
 ## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types</a></li>
 </ul>
 
 ## 0. PL/SQL Functions
