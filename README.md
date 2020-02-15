@@ -62,6 +62,7 @@
   <li><a href="https://www.techonthenet.com/oracle/comments.php">Oracle / PLSQL: Comments within SQL</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm">Pseudocolumns</a></li>
   <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040">DESCRIBE Command</a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/subprograms.htm#LNPLS99900">Subprograms</a></li>
 </ul>
 
 
@@ -141,15 +142,23 @@
   <li><a href="">Table Operators</a></li>
 </ul>
 
-## 0. PL/SQL Functions
+## 8. PL/SQL Cursors
 
-### Numeric and Math Functions
+## 9.
+
+## 10. PL/SQL Functions and Procedures
+
+### 10.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
-## 0. Advanced PL/SQL
+## 11. PL/SQL Packages
+
+## 12. PL/SQL Triggers
+
+## 13. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
 </ul>
