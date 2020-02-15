@@ -86,7 +86,7 @@
 </ul>
 
 ## 6. SQL in PL/SQL
-### 6-1. DDL
+### 6-1. DDL(Data Definition Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table.php">CREATE TABLE Statement</a></li>
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table2.php">CREATE TABLE AS Statement</a></li>
@@ -97,7 +97,7 @@
   <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
 </ul>
 
-### 6-2. DML
+### 6-2. DML(Data Manipulation Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/select.php">SELECT Statement</a></li>
   <li><a href="https://www.techonthenet.com/oracle/insert.php">INSERT Statement</a></li>
@@ -117,7 +117,7 @@
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
 </ul>
 
-### 6-3 DCL
+### 6-3 DCL(Data Control Language)
 <ul>
   <a href="https://www.techonthenet.com/oracle/grant_revoke.php">Grant/Revoke Privileges</a></li>
   <a href="https://www.techonthenet.com/oracle/roles.php">Roles</a></li>
