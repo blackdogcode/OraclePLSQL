@@ -88,11 +88,7 @@
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-select-into/">SELECT INTO</a></li>
 </ul>  
 
-[PL/SQL - Procedures](https://www.tutorialspoint.com/plsql/plsql_procedures.htm)\
-[PL/SQL - Functions](https://www.tutorialspoint.com/plsql/plsql_functions.htm)\
-[PL/SQL - Transactions](https://www.tutorialspoint.com/plsql/plsql_transactions.htm)
-
-## [0. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
+## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
   <li><a href=""> </a></li>
 </ul>
