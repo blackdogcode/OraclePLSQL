@@ -91,13 +91,23 @@
 ## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
-  <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types</a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types(key-value paris)</a>
+    <ul>
+      <li><a href="">Nested Tables</a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#GUID-E932FC04-C7AD-4562-9555-8BA05446C0B8">VARRAYs(Bounded Array)</a></li>
+      <li><a href=""><strong>Associatvie Arrays</strong></a></li>
+  </li>
+  <li><a href="">TABLE Operators</a></li>
 </ul>
 
 ## 0. PL/SQL Functions
+  
+
+### Numeric and Math Functions
 <ul>
+  <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
-</ul>  
+</ul>
 
 ## 0. Advanced PL/SQL
 <ul>
