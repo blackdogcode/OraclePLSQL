@@ -96,8 +96,9 @@
       <li><a href="">Nested Tables</a></li>
       <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#GUID-E932FC04-C7AD-4562-9555-8BA05446C0B8">VARRAYs(Bounded Array)</a></li>
       <li><a href=""><strong>Associatvie Arrays</strong></a></li>
+    </ul>
   </li>
-  <li><a href="">TABLE Operators</a></li>
+  <li><a href="">Table Operators</a></li>
 </ul>
 
 ## 0. PL/SQL Functions
