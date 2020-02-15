@@ -73,6 +73,7 @@
   <li><a href="https://docs.oracle.com/cd/B13789_01/appdev.101/b10807/02_funds.htm">PL SQL Delimiters</a></li>
   <li><a href="https://github.com/Blackdog-Programmer/OraclePLSQL/edit/master/README.md">Scope Rules</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14357/ch5.htm#i1211850">Bind Variables</a></li>
+  <li><a href="https://docs.oracle.com/database/121/TGDBA/tune_pga.htm#TGDBA346">PGA(Program Global Area)</a></li>
 </ul>
 
 
