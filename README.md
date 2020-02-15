@@ -102,7 +102,8 @@
 </ul>
 
 ## 0. PL/SQL Functions
-<h2>Numeric and Math Functions</h2>
+
+### Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
