@@ -108,7 +108,6 @@
   <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
 </ul>
 
-![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
 
 ### 6-2. DML(Data Manipulation Language)
 <ul>
