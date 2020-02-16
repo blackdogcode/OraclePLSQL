@@ -180,6 +180,8 @@
   </li>
 </ul>
 
+<li><a href="https://www.techonthenet.com/oracle/cursors/attributes.php">Cursor Attributes</a></li>
+
 ## 9. PL/SQL Exceptions
 
 
