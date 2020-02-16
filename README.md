@@ -199,10 +199,13 @@
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/errors.htm#i9084">Overview of PL/SQL Compile-Time Warnings</a></li>
   <li><a href="https://www.geeksforgeeks.org/exception-handling-plsql/">SQLCODE</a></li>
   <li><a href="https://www.techonthenet.com/oracle/exceptions/sqlerrm.php">SQLERRM></a></li>
+  <li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-raise_application_error/">RAISE_APPLICATION_ERROR</a></li>
 </ul>
 
 ## 10. PL/SQL Functions and Procedures
 <ul>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/subprograms.htm#LNPLS008">Using PL/SQL Subprograms</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28843/tdddg_procedures.htm">Developing and Using Stored Procedures</a></li>
   <li><a href="https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm">Using Single-Row Functions</a></li>
   <li><a href="https://www.w3schools.com/sql/sql_ref_sqlserver.asp">SQL Server Functions</a></li>
 </ul>
