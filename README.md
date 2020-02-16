@@ -189,7 +189,9 @@
 <li><a href="http://www.devinline.com/2015/09/difference-between-weak-and-strong-cursor-type.html">What is difference between Weak reference type and Strong reference type - PL/SQL cursor</a></li>
 
 ## 9. PL/SQL Exceptions
-
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
+</ul>
 
 ## 10. PL/SQL Functions and Procedures
 <ul>
