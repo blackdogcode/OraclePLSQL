@@ -181,6 +181,7 @@
 </ul>
 
 <li><a href="https://www.techonthenet.com/oracle/cursors/attributes.php">Cursor Attributes</a></li>
+<li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-cursor-for-update/">FOR UPDATE</a></li>
 
 ## 9. PL/SQL Exceptions
 
