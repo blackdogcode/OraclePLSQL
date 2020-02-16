@@ -150,12 +150,11 @@
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types(key-value paris)</a>
     <ul>
-      <li><a href="">Nested Tables</a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#GUID-5ADB7EE2-71F6-4172-ACD8-FFDCF2787A37">Nested Tables</a></li>
       <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#GUID-E932FC04-C7AD-4562-9555-8BA05446C0B8">VARRAYs(Bounded Array)</a></li>
-      <li><a href=""><strong>Associatvie Arrays</strong></a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501"><strong>Associatvie Arrays</strong></a></li>
     </ul>
   </li>
-  <li><a href="">Table Operators</a></li>
 </ul>
 
 
@@ -177,9 +176,10 @@
 
 
 ## 10. PL/SQL Functions and Procedures
-[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
-[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
-
+<ul>
+  <li><a href="https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm">Using Single-Row Functions</a></li>
+  <li><a href="https://www.w3schools.com/sql/sql_ref_sqlserver.asp">SQL Server Functions</a></li>
+</ul>
 
 ### 10.1 Numeric and Math Functions
 <ul>
