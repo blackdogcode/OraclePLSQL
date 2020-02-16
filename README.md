@@ -130,7 +130,7 @@
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
 </ul>
 
-<h3>Set Operations
+<h4>Set Operations
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/joins.php">Joins</a></li>
   <li><a href="https://www.techonthenet.com/oracle/minus.php">MINUS Operator</a></li>
@@ -173,6 +173,7 @@
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJADDHFI">semantics</a></li>
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJAFJDCI">Examples</a></li>
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJACGGBH">Related Topics</a></li>
+    </ul>
   </li>
     
   <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#LNPLS01313">Explicit Cursor</a></li>
