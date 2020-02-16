@@ -181,8 +181,12 @@
 </ul>
 
 <li><a href="https://www.techonthenet.com/oracle/cursors/attributes.php">Cursor Attributes</a></li>
-<li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-cursor-for-update/">FOR UPDATE</a></li>
+<li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-cursor-for-update/">CURSOR FOR UPDATE</a></li>
 <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/locktable_statement.htm">LOCK TABLE Statement</a></li>
+<li><a href="https://www.techonthenet.com/oracle/cursors/current_of.php">WHERE CURRENT OF Statement</a></li>
+<li><a href="https://www.techonthenet.com/oracle/cursors/current_of.php">SELECT FOR UPDATE Statement</a></li>
+<li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28286/pseudocolumns008.htm#SQLRF00254">ROWID Pseudocolumn</a></li>
+<li><a href="http://www.devinline.com/2015/09/difference-between-weak-and-strong-cursor-type.html">What is difference between Weak reference type and Strong reference type - PL/SQL cursor</a></li>
 
 ## 9. PL/SQL Exceptions
 
