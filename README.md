@@ -201,7 +201,7 @@
 ## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 
 
-## 15. Keys, Constraints
+## 15. Key Constraints
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
   <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
