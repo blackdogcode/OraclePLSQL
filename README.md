@@ -191,6 +191,7 @@
 
 ## [9. PL/SQL Exceptions](https://docs.oracle.com/cd/E11882_01/timesten.112/e21639/exceptions.htm#TTPLS191)
 <ul>
+  <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/errors.htm#i3336">Overview of PL/SQL Run-Time Error Handling</a></li>
   <li><a href="https://docs.oracle.com/cd/E11882_01/timesten.112/e21639/exceptions.htm#CIHHDEFG">Exception types</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/errors.htm#i3359">Reraising a PL/SQL Exception</a></li>
