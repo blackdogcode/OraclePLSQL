@@ -12,7 +12,6 @@
   <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
 </ul>
 
-
 ## 1. SQL
 <ul>
   <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
@@ -102,6 +101,7 @@
   <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
 </ul>
 
+![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
 
 ### 6-2. DML(Data Manipulation Language)
 <ul>
@@ -121,6 +121,12 @@
   <li><a href="geeksforgeeks.org/sql-concatenation-operator/">|| Concatenation Operator</a></li>
   <li><a href="https://www.w3schools.com/sql/sql_between.asp">BETWEEN Operator</a></li>
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
+</ul>
+
+<h3>Set Operations
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/joins.php">Joins</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/minus.php">MINUS Operator</a></li>
 </ul>
 
 
@@ -169,6 +175,10 @@
 
 
 ## 10. PL/SQL Functions and Procedures
+[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
+[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+
+
 ### 10.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
@@ -191,26 +201,10 @@
 ## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 
 
-## 15. Keys, Constraints and Indexes
-[Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
-[Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
-[Oracle / PLSQL: Unique Constraints](https://www.techonthenet.com/oracle/unique.php)\
-[Oracle / PLSQL: Check Constraints](https://www.techonthenet.com/oracle/check.php)\
-[Oracle / PLSQL: Indexes](https://www.techonthenet.com/oracle/indexes.php)
-
-
-## Single Row Functions(SRFS)
-[Using Single-Row Functions](https://www.tutorialspoint.com/sql_certificate/using_single_row_functions.htm)\
-[SQL Server Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
-
-
-
-
-![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
-![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
-
-
-## Oracle Set Operations
-[Oracle / PLSQL: Joins](https://www.techonthenet.com/oracle/joins.php)\
-[Union Vs. Union All](https://www.c-sharpcorner.com/blogs/sql-server-union-vs-union-all-which-is-better-for-performance)\
-[Oracle / PLSQL: MINUS Operator](https://www.techonthenet.com/oracle/minus.php)
+## 15. Keys, Constraints
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/unique.php">Unique Constraints</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/check.php">Check Constraints</a></li>
+</ul>
