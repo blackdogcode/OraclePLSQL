@@ -219,30 +219,24 @@
 
 ## [11. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2404">What is a Package?</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2408">Reasons to Use Packages</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2412">Package Specification</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2416">Package Body</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#BABEBHEG">Package Instantiation and Initialization</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#CJADDABG">Package State</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#CJABACHJ">SERIALLY_REUSABLE Packages</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i7562">Package Writing Guidelines</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i4362">Package Example</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i6060">How STANDARD Package Defines the PL/SQL Environment</a></li>
 </ul>
 
 ## [12. PL/SQL Triggers](https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#CNCPT017)
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i13313">Introduction to Triggers</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i10234">Components of a Trigger</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i2013">Types of Triggers</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i13362">Trigger Execution</a></li>
 </ul>
 
 
@@ -253,3 +247,14 @@
 
 
 ## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
+<ul>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i53930">PL/SQL Optimizer</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BCGCIFGH">Candidates for Tuning</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BABFCJJG">Minimizing CPU Overhead</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BABFHGHI">Bulk SQL and Bulk Binding</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i52932">Chaining Pipelined Table Functions for Multiple Transformations</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BABCFCJC">Updating Large Tables in Parallel</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#g3143398">Collecting Data About User-Defined Identifiers</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i48283">Profiling and Tracing PL/SQL Programs</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i48528">Compiling PL/SQL Units for Native Execution</a></li>
+</ul>
