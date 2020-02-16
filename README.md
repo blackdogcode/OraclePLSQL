@@ -169,7 +169,15 @@
   </li>
 </ul>
 
-  <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#LNPLS01313">Explicit Cursor</a></li>
+<ul>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#LNPLS01313">Explicit Cursor</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#GUID-38C5DBA3-9DEC-4AF2-9B5E-7B721D11A77C__CJAJIACH">syntax</a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#GUID-38C5DBA3-9DEC-4AF2-9B5E-7B721D11A77C__CJAIACGI">semantics</a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#GUID-38C5DBA3-9DEC-4AF2-9B5E-7B721D11A77C__CJAHEFFJ">examples</a></li>
+      <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#GUID-38C5DBA3-9DEC-4AF2-9B5E-7B721D11A77C__CJAEHJBH">Related Topics</a></li>
+    </ul>
+  </li>
 </ul>
 
 ## 9. PL/SQL Exceptions
