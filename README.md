@@ -128,14 +128,9 @@
   <li><a href="geeksforgeeks.org/sql-concatenation-operator/">|| Concatenation Operator</a></li>
   <li><a href="https://www.w3schools.com/sql/sql_between.asp">BETWEEN Operator</a></li>
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
-</ul>
-
-<h4>Set Operations
-<ul>
   <li><a href="https://www.techonthenet.com/oracle/joins.php">Joins</a></li>
   <li><a href="https://www.techonthenet.com/oracle/minus.php">MINUS Operator</a></li>
 </ul>
-
 
 ### 6-3 DCL(Data Control Language)
 <ul>
@@ -143,7 +138,6 @@
   <a href="https://www.techonthenet.com/oracle/roles.php">Roles</a></li>
   <a href="https://www.techonthenet.com/oracle/password.php">Change a user's password in Oracle</a></li>
 </ul>
-
 
 ### 6-4 Advanced SQL
 <ul>
