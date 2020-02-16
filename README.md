@@ -182,6 +182,7 @@
 
 <li><a href="https://www.techonthenet.com/oracle/cursors/attributes.php">Cursor Attributes</a></li>
 <li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-cursor-for-update/">FOR UPDATE</a></li>
+<li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/locktable_statement.htm">LOCK TABLE Statement</a></li>
 
 ## 9. PL/SQL Exceptions
 
