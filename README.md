@@ -45,6 +45,13 @@
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
+### 1-1. Key Constraints
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/unique.php">Unique Constraints</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/check.php">Check Constraints</a></li>
+</ul>
 
 ## 2. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 <ul>
@@ -199,12 +206,3 @@
 
 
 ## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
-
-
-## 15. Key Constraints
-<ul>
-  <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
-  <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
-  <li><a href="https://www.techonthenet.com/oracle/unique.php">Unique Constraints</a></li>
-  <li><a href="https://www.techonthenet.com/oracle/check.php">Check Constraints</a></li>
-</ul>
