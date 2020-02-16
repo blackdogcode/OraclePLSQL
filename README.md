@@ -12,6 +12,7 @@
   <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
 </ul>
 
+
 ## 1. SQL
 <ul>
   <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
@@ -45,6 +46,7 @@
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
+
 ## 2. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Administrator's Guide</a></li>
@@ -53,9 +55,11 @@
   <li><a href="https://www.techonthenet.com/oracle/index.php">Oracle PL/SQL Technet</a></li>
 </ul>
 
+
 ## 3. PL/SQL Basics
 <ul>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
+  <li><a href="https://www.techonthenet.com/oracle/sys_tables/index.php">System Tables</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
   <li><a href="https://docs.oracle.com/database/121/ARPLS/d_output.htm#ARPLS036">DBMS_OUTPUT and SET SERVEROUTPUT ON</a></li>
@@ -85,6 +89,7 @@
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2909">GOTO and NULL Statements</a></li>
 </ul>
 
+
 ## 6. SQL in PL/SQL
 ### 6-1. DDL(Data Definition Language)
 <ul>
@@ -96,6 +101,7 @@
   <li><a href="https://www.techonthenet.com/oracle/views.php">VIEW</a></li>
   <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
 </ul>
+
 
 ### 6-2. DML(Data Manipulation Language)
 <ul>
@@ -117,6 +123,7 @@
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
 </ul>
 
+
 ### 6-3 DCL(Data Control Language)
 <ul>
   <a href="https://www.techonthenet.com/oracle/grant_revoke.php">Grant/Revoke Privileges</a></li>
@@ -124,10 +131,12 @@
   <a href="https://www.techonthenet.com/oracle/password.php">Change a user's password in Oracle</a></li>
 </ul>
 
+
 ### 6-4 Advanced SQL
 <ul>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-select-into/">SELECT INTO</a></li>
 </ul>  
+
 
 ## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
@@ -142,34 +151,47 @@
   <li><a href="">Table Operators</a></li>
 </ul>
 
+
 ## [8. PL/SQL Cursors(Pointers to the data)](https://www.oracletutorial.com/plsql-tutorial/plsql-cursor/)
 <ul>
-  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#LNPLS01348">Implicit Cursor</a></li>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#LNPLS01348">Implicit Cursor</a>
+    <ul>
+      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJABFDJB">syntax</a><li>
+      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJADDHFI">semantics</a></li>
+      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJAFJDCI">Examples</a></li>
+      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJACGGBH">Related Topics</a></li>
+  </li>
+    
   <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#LNPLS01313">Explicit Cursor</a></li>
 </ul>
 
 ## 9. PL/SQL Exceptions
 
-## 10. PL/SQL Functions and Procedures
 
+## 10. PL/SQL Functions and Procedures
 ### 10.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
+
 ## 11. PL/SQL Packages
 
+
 ## 12. PL/SQL Triggers
+
 
 ## 13. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
 </ul>
 
+
 ## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 
-## Keys, Constraints and Indexes
+
+## 15. Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
 [Oracle / PLSQL: Foreign Key Topics](https://www.techonthenet.com/oracle/foreign_keys/index.php)\
 [Oracle / PLSQL: Unique Constraints](https://www.techonthenet.com/oracle/unique.php)\
@@ -186,10 +208,6 @@
 
 ![Cretae Index Statement](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Create_Index_Statement.png)\
 ![Index Compute Statistics](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/Index_Compute_Statistics.png)
-
-[Oracle / PLSQL: Oracle System Tables](https://www.techonthenet.com/oracle/sys_tables/index.php)
-
-
 
 
 ## Oracle Set Operations
