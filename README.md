@@ -161,7 +161,7 @@
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#LNPLS01348">Implicit Cursor</a>
     <ul>
-      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJABFDJB">syntax</a><li>
+      <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJABFDJB">syntax</a></li>
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJADDHFI">semantics</a></li>
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJAFJDCI">Examples</a></li>
       <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#CJACGGBH">Related Topics</a></li>
