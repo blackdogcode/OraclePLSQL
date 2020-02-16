@@ -142,7 +142,11 @@
   <li><a href="">Table Operators</a></li>
 </ul>
 
-## 8. PL/SQL Cursors
+## [8. PL/SQL Cursors(Pointers to the data)](https://www.oracletutorial.com/plsql-tutorial/plsql-cursor/)
+<ul>
+  <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#LNPLS01348">Implicit Cursor</a></li>
+  <li><a href="https://docs.oracle.com/database/121/LNPLS/explicit_cursor.htm#LNPLS01313">Explicit Cursor</a></li>
+</ul>
 
 ## 9. PL/SQL Exceptions
 
@@ -162,6 +166,8 @@
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
 </ul>
+
+## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 
 ## Keys, Constraints and Indexes
 [Oracle / PLSQL: Primary Keys](https://www.techonthenet.com/oracle/index.php)\
