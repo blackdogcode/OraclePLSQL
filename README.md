@@ -144,7 +144,7 @@
 
 ## 8. PL/SQL Cursors
 
-## 9.
+## 9. PL/SQL Exceptions
 
 ## 10. PL/SQL Functions and Procedures
 
