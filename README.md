@@ -19,6 +19,7 @@
     <ul>
       <li><a href="https://www.vertabelo.com/blog/crow-s-foot-notation/">Crow’s Foot Notation</a></li>
     </ul>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/datatypes.htm#i46029">Oracle 11g PL/SQL DataTypes</a></li
   </li>
 </ul>
 
