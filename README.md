@@ -12,7 +12,18 @@
   <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
 </ul>
 
-## 1. SQL
+
+## 1. References
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Entity–relationship model</a>
+    <ul>
+      <li><a href="https://www.vertabelo.com/blog/crow-s-foot-notation/">Crow’s Foot Notation</a></li>
+    </ul>
+  </li>
+</ul>
+
+
+## 2. SQL
 <ul>
   <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
   <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a></li>
@@ -45,7 +56,7 @@
 
 ![All Types of JOIN Operations](https://github.com/Blackdog-Programmer/OracleSQL/blob/master/Reference/SQL_Joins.png)
 
-### 1-1. Key Constraints
+### 2-1. Key Constraints
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
   <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
@@ -53,7 +64,8 @@
   <li><a href="https://www.techonthenet.com/oracle/check.php">Check Constraints</a></li>
 </ul>
 
-## 2. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
+
+## 3. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Administrator's Guide</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Performance Tuning Guide</a></li>
@@ -62,7 +74,7 @@
 </ul>
 
 
-## 3. PL/SQL Basics
+## 4. PL/SQL Basics
 <ul>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
   <li><a href="https://www.techonthenet.com/oracle/sys_tables/index.php">System Tables</a></li>
@@ -76,7 +88,7 @@
 </ul>
 
 
-## 4. PL/SQL Variables
+## 5. PL/SQL Variables
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/datatypes.htm#LNPLS003">Oracle Data Types</a></li>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-variables/">Declaring variables</a></li>
@@ -88,7 +100,7 @@
 </ul>
 
 
-## 5. PL/SQL Control Structures
+## 6. PL/SQL Control Structures
 <ul>
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2866">IF and CASE Statements</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i8296">LOOP and EXIT Statements</a></li>
@@ -96,8 +108,8 @@
 </ul>
 
 
-## 6. SQL in PL/SQL
-### 6-1. DDL(Data Definition Language)
+## 7. SQL in PL/SQL
+### 7-1. DDL(Data Definition Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table.php">CREATE TABLE Statement</a></li>
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table2.php">CREATE TABLE AS Statement</a></li>
@@ -109,7 +121,7 @@
 </ul>
 
 
-### 6-2. DML(Data Manipulation Language)
+### 7-2. DML(Data Manipulation Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/select.php">SELECT Statement</a></li>
   <li><a href="https://www.techonthenet.com/oracle/insert.php">INSERT Statement</a></li>
@@ -131,20 +143,20 @@
   <li><a href="https://www.techonthenet.com/oracle/minus.php">MINUS Operator</a></li>
 </ul>
 
-### 6-3 DCL(Data Control Language)
+### 7-3 DCL(Data Control Language)
 <ul>
   <a href="https://www.techonthenet.com/oracle/grant_revoke.php">Grant/Revoke Privileges</a></li>
   <a href="https://www.techonthenet.com/oracle/roles.php">Roles</a></li>
   <a href="https://www.techonthenet.com/oracle/password.php">Change a user's password in Oracle</a></li>
 </ul>
 
-### 6-4 Advanced SQL
+### 7-4 Advanced SQL
 <ul>
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-select-into/">SELECT INTO</a></li>
 </ul>  
 
 
-## [7. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
+## [8. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types(key-value paris)</a>
@@ -157,7 +169,7 @@
 </ul>
 
 
-## [8. PL/SQL Cursors(Pointers to the data)](https://www.oracletutorial.com/plsql-tutorial/plsql-cursor/)
+## [9. PL/SQL Cursors(Pointers to the data)](https://www.oracletutorial.com/plsql-tutorial/plsql-cursor/)
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/sql_cursor.htm#LNPLS01348">Implicit Cursor</a>
     <ul>
@@ -189,7 +201,7 @@
 <li><a href="http://www.devinline.com/2015/09/difference-between-weak-and-strong-cursor-type.html">What is difference between Weak reference type and Strong reference type - PL/SQL cursor</a></li>
 
 
-## [9. PL/SQL Exceptions](https://www.geeksforgeeks.org/exception-handling-plsql/)
+## [10. PL/SQL Exceptions](https://www.geeksforgeeks.org/exception-handling-plsql/)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/errors.htm#i3336">Overview of PL/SQL Run-Time Error Handling</a></li>
@@ -202,7 +214,8 @@
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-raise_application_error/">RAISE_APPLICATION_ERROR</a></li>
 </ul>
 
-## 10. PL/SQL Functions and Procedures
+
+## 11. PL/SQL Functions and Procedures
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/subprograms.htm#LNPLS008">Using PL/SQL Subprograms</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28843/tdddg_procedures.htm">Developing and Using Stored Procedures</a></li>
@@ -210,14 +223,14 @@
   <li><a href="https://www.w3schools.com/sql/sql_ref_sqlserver.asp">SQL Server Functions</a></li>
 </ul>
 
-### 10.1 Numeric and Math Functions
+### 11.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
 
-## [11. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
+## [12. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2404">What is a Package?</a></li>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2408">Reasons to Use Packages</a></li>
@@ -231,7 +244,8 @@
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i6060">How STANDARD Package Defines the PL/SQL Environment</a></li>
 </ul>
 
-## [12. PL/SQL Triggers](https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#CNCPT017)
+
+## [13. PL/SQL Triggers](https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#CNCPT017)
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i13313">Introduction to Triggers</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i10234">Components of a Trigger</a></li>
@@ -240,13 +254,13 @@
 </ul>
 
 
-## 13. Advanced PL/SQL
+## 14. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
 </ul>
 
 
-## [14. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
+## [15. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i53930">PL/SQL Optimizer</a></li>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BCGCIFGH">Candidates for Tuning</a></li>
