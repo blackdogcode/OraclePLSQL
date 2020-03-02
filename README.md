@@ -10,6 +10,7 @@
   <li><a href="http://dataconomy.com/2014/07/sql-vs-nosql-need-know/">Dataconomy: SQL vs. NoSQL - What You Need to Know</a></li>
   <li><a href="http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/">TechRepublic: NoSQL keeps rising, but relational databases still dominate big data</a></li>
   <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
+  <li><a href="https://www.attuneww.com/blogs/what-is-difference-between-sqlsqlplusplsql.htmlhttps://www.attuneww.com/blogs/what-is-difference-between-sqlsqlplusplsql.html">What is difference between SQL, SQL*PLUS, PL/SQL</a></li>
 </ul>
 
 
@@ -21,6 +22,7 @@
     </ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/datatypes.htm#i46029">Oracle 11g PL/SQL DataTypes</a></li
   </li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28298/ch3globenv.htm">Setting <strong>NLS</strong>(National Language Support)</a></li>
 </ul>
 
 
