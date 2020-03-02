@@ -22,7 +22,7 @@
     </ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/datatypes.htm#i46029">Oracle 11g PL/SQL DataTypes</a></li
   </li>
-  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28298/ch3globenv.htm">Setting <strong>NLS</strong>(National Language Support)</a></li>
+  <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28298/ch3globenv.htm">Setting NLS(National Language Support)</a></li>
 </ul>
 
 
