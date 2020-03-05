@@ -127,6 +127,7 @@
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i8296">LOOP and EXIT Statements</a>
     <ul>
       <li><a href="https://www.techonthenet.com/oracle/loops/for_loop.php">FOR LOOP</a></li>
+      <li><a href="https://www.techonthenet.com/oracle/loops/while.php">While Loop</a></li>
     </ul>
   </li>
   
