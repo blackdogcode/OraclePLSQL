@@ -71,8 +71,11 @@
 ## 3. Oracle PL/SQL(Procedural Language extensions to SQL) Reference
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Administrator's Guide</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28310/toc.htm">Oracle - Database Performance Tuning Guide</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/errors/index.php">Oracle / PLSQL: Oracle Error Messages</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/index.php">Oracle PL/SQL Technet</a></li>
 </ul>
 
@@ -80,13 +83,21 @@
 ## 4. PL/SQL Basics
 <ul>
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries009.ht">Oracle Dual Table</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/sys_tables/index.php">System Tables</a></li>
+  
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">Anonymous Block</a></li>
+  
   <li><a href="https://oracle-base.com/articles/misc/naming-conventions">Oracle DB Naming Conventions</a></li>
+  
   <li><a href="https://docs.oracle.com/database/121/ARPLS/d_output.htm#ARPLS036">DBMS_OUTPUT and SET SERVEROUTPUT ON</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/comments.php">Oracle / PLSQL: Comments within SQL</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns.htm">Pseudocolumns</a></li>
+  
   <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040">DESCRIBE Command</a></li>
+  
   <li><a href="https://docs.oracle.com/database/121/LNPLS/subprograms.htm#LNPLS99900">Subprograms</a></li>
 </ul>
 
@@ -94,11 +105,17 @@
 ## 5. PL/SQL Variables
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/datatypes.htm#LNPLS003">Oracle Data Types</a></li>
+  
   <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-variables/">Declaring variables</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352">%TYPE Attribute</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B13789_01/appdev.101/b10807/02_funds.htm">PL SQL Delimiters</a></li>
+  
   <li><a href="https://github.com/Blackdog-Programmer/OraclePLSQL/edit/master/README.md">Scope Rules</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B19306_01/server.102/b14357/ch5.htm#i1211850">Bind Variables</a></li>
+  
   <li><a href="https://docs.oracle.com/database/121/TGDBA/tune_pga.htm#TGDBA346">PGA(Program Global Area)</a></li>
 </ul>
 
@@ -106,7 +123,13 @@
 ## 6. PL/SQL Control Structures
 <ul>
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2866">IF and CASE Statements</a></li>
-  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i8296">LOOP and EXIT Statements</a></li>
+  
+  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i8296">LOOP and EXIT Statements</a>
+    <ul>
+      <li a href="https://www.techonthenet.com/oracle/loops/for_loop.php">FOR LOOP</a></li>
+    </ul>
+  </li>
+  
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/controlstructures.htm#i2909">GOTO and NULL Statements</a></li>
 </ul>
 
@@ -115,11 +138,17 @@
 ### 7-1. DDL(Data Definition Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table.php">CREATE TABLE Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/tables/create_table2.php">CREATE TABLE AS Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/tables/alter_table.php">ALTER TABLE Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/tables/drop_table.php">DROP TABLE Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/truncate.php">TRUNCATE TABLE Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/views.php">VIEW</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/indexes.php">Indexes</a></li>
 </ul>
 
@@ -127,22 +156,39 @@
 ### 7-2. DML(Data Manipulation Language)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/select.php">SELECT Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/insert.php">INSERT Statement</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/delete.php">DELETE Statement</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_distinct.asp">DISTINCT Statement</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_where.asp">WHERE Clause</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_and_or.asp">AND, OR and NOT Operators</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_operators.asp">Operators</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_in.asp">IN Operator</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_null_values.asp">NULL Values</a></li>
+  
   <li><a href="https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-ver15">Operator Precedence</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_like.asp">LIKE Operator</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_orderby.asp">ORDER BY Keyword</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_alias.asp">Aliases</a></li>
+  
   <li><a href="geeksforgeeks.org/sql-concatenation-operator/">|| Concatenation Operator</a></li>
+  
   <li><a href="https://www.w3schools.com/sql/sql_between.asp">BETWEEN Operator</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/exists.php">EXISTS Condition</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/joins.php">Joins</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/minus.php">MINUS Operator</a></li>
 </ul>
 
@@ -196,11 +242,17 @@
 </ul>
 
 <li><a href="https://www.techonthenet.com/oracle/cursors/attributes.php">Cursor Attributes</a></li>
+
 <li><a href="https://www.oracletutorial.com/plsql-tutorial/oracle-cursor-for-update/">CURSOR FOR UPDATE</a></li>
+
 <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/locktable_statement.htm">LOCK TABLE Statement</a></li>
+
 <li><a href="https://www.techonthenet.com/oracle/cursors/current_of.php">WHERE CURRENT OF Statement</a></li>
+
 <li><a href="https://www.techonthenet.com/oracle/cursors/current_of.php">SELECT FOR UPDATE Statement</a></li>
+
 <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28286/pseudocolumns008.htm#SQLRF00254">ROWID Pseudocolumn</a></li>
+
 <li><a href="http://www.devinline.com/2015/09/difference-between-weak-and-strong-cursor-type.html">What is difference between Weak reference type and Strong reference type - PL/SQL cursor</a></li>
 
 
