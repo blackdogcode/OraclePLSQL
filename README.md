@@ -320,6 +320,7 @@
 ## 14. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
+  <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14249/adlob_plsql_semantics.htm">PL/SQL Semantics for LOBs</a></li>
 </ul>
 
 
