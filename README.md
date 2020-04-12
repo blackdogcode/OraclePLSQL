@@ -281,6 +281,11 @@
   <li><a href="https://www.w3schools.com/sql/sql_ref_sqlserver.asp">SQL Server Functions</a></li>
 </ul>
 
+### 11.0 Pre-built Functions
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/functions/nvl.php">nvl()</a></li>
+</ul>  
+
 ### 11.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
