@@ -292,6 +292,11 @@
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
+### 11.2 Analytic Functions
+<ul>
+  <li><a href="https://www.techonthenet.com/oracle/functions/listagg.php">listagg()</a></li>
+</ul>  
+
 
 ## [12. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
 <ul>
