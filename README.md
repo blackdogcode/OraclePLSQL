@@ -292,7 +292,7 @@
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
 </ul>  
 
-### 11.2 Analytic Functions
+### [11.2 Analytic Functions](https://oracle-base.com/articles/misc/analytic-functions)
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/listagg.php">listagg()</a></li>
   
