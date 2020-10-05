@@ -295,6 +295,8 @@
 ### 11.2 Analytic Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/listagg.php">listagg()</a></li>
+  
+  <li><a href="https://www.techonthenet.com/oracle/functions/dense_rank.php">DENSE_RANK Function</a></li>
 </ul>  
 
 
