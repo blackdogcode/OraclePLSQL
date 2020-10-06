@@ -289,7 +289,10 @@
 ### 11.1 Numeric and Math Functions
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/functions/count.php">count()</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/functions/mod.php">mod(m, n)</a></li>
+  
+  <li><a href="https://www.techonthenet.com/oracle/functions/min.php">MIN Function</a></li>
 </ul>  
 
 ### [11.2 Analytic Functions](https://oracle-base.com/articles/misc/analytic-functions)
