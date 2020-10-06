@@ -297,6 +297,8 @@
 
 ### [11.2 Analytic Functions](https://oracle-base.com/articles/misc/analytic-functions)
 <ul>
+  <li><a href="https://drill.apache.org/docs/sql-window-functions-introduction/#:~:text=Window%20functions%20operate%20on%20a,to%20calculate%20the%20returned%20values.">SQL Window Functions Introduction</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/functions/listagg.php">listagg()</a></li>
   
   <li><a href="https://www.techonthenet.com/oracle/functions/rank.php">RANK Function</a></li>
