@@ -29,6 +29,7 @@
 ## 2. SQL
 <ul>
   <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
+  
   <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a></li>
 </ul>
 
@@ -99,6 +100,8 @@
   <li><a href="https://docs.oracle.com/database/121/SQPUG/ch_twelve019.htm#SQPUG040">DESCRIBE Command</a></li>
   
   <li><a href="https://docs.oracle.com/database/121/LNPLS/subprograms.htm#LNPLS99900">Subprograms</a></li>
+  
+  <li><a href="https://www.sqlitetutorial.net/sqlite-union/">Union vs Union All</a></li>
 </ul>
 
 
