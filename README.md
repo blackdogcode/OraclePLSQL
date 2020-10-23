@@ -310,6 +310,13 @@
 </ul>  
 
 ## [12. PL/SQL Procedures](https://docs.oracle.com/cd/B19306_01/B14251_01/adfns_packages.htm)
+<ul>
+  <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-procedure/">Programming PL/SQL Procedure Tutorial</a>
+    <ul>
+      <li><a href="https://www.oracletutorial.com/plsql-tutorial/plsql-anonymous-block/">PL/SQL Anonymous Block</a></li>
+    </ul>
+  </li>
+</ul>
 
 ## [13. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
 <ul>
