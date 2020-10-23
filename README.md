@@ -276,7 +276,7 @@
 </ul>
 
 
-## 11. PL/SQL Functions and Procedures
+## 11. PL/SQL Functions
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/subprograms.htm#LNPLS008">Using PL/SQL Subprograms</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28843/tdddg_procedures.htm">Developing and Using Stored Procedures</a></li>
@@ -309,8 +309,9 @@
   <li><a href="https://www.techonthenet.com/oracle/functions/dense_rank.php">DENSE_RANK Function</a></li>
 </ul>  
 
+## 12. PL/SQL Procedures
 
-## [12. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
+## [13. PL/SQL Packages](https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#LNPLS009)
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2404">What is a Package?</a></li>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/packages.htm#i2408">Reasons to Use Packages</a></li>
@@ -325,7 +326,7 @@
 </ul>
 
 
-## [13. PL/SQL Triggers](https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#CNCPT017)
+## [14. PL/SQL Triggers](https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#CNCPT017)
 <ul>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i13313">Introduction to Triggers</a></li>
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28318/triggers.htm#i10234">Components of a Trigger</a></li>
@@ -334,14 +335,14 @@
 </ul>
 
 
-## 14. Advanced PL/SQL
+## 15. Advanced PL/SQL
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/sequences.php">Sequences (Autonumber)</a></li>
   <li><a href="https://docs.oracle.com/cd/B19306_01/appdev.102/b14249/adlob_plsql_semantics.htm">PL/SQL Semantics for LOBs</a></li>
 </ul>
 
 
-## [15. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
+## [16. PL/SQL Optimization and Tuning](https://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012)
 <ul>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#i53930">PL/SQL Optimizer</a></li>
   <li><a href="https://docs.oracle.com/cd/E11882_01/appdev.112/e25519/tuning.htm#BCGCIFGH">Candidates for Tuning</a></li>
