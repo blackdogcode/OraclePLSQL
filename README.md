@@ -1,15 +1,25 @@
 ## 0. Articles
 <ul>
   <li><a href="https://www.thebalancecareers.com/what-is-sql-and-uses-2071909">What is SQL and How is it Used?</a></li>
+  
   <li><a href="https://www.ntchosting.com/encyclopedia/databases/structured-query-language/">NTC Hosting: Structured Query Language (it's worth exploring this site, not just this singular posting)</a></li>
+  
   <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-star-schema/">The Star Schema</a></li>
+  
   <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-the-snowflake-schema/">The Snowflake Schema</a></li>
+  
   <li><a href="https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/">Star Schema vs. Snowflake Schema</a></li>
+  
   <li><a href="http://business-analysis-excellence.com/what-is-data-modeling/">What is data modeling – An Introduction for Business Analysts</a></li>
+  
   <li><a href="http://www.agiledata.org/essays/dataModeling101.html">Data Modeling 101</a></li>
+  
   <li><a href="http://dataconomy.com/2014/07/sql-vs-nosql-need-know/">Dataconomy: SQL vs. NoSQL - What You Need to Know</a></li>
+  
   <li><a href="http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/">TechRepublic: NoSQL keeps rising, but relational databases still dominate big data</a></li>
+  
   <li><a href="https://www.siliconrepublic.com/careers/data-science-skills-sql">SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?</a></li>
+  
   <li><a href="https://www.attuneww.com/blogs/what-is-difference-between-sqlsqlplusplsql.htmlhttps://www.attuneww.com/blogs/what-is-difference-between-sqlsqlplusplsql.html">What is difference between SQL, SQL*PLUS, PL/SQL</a></li>
 </ul>
 
@@ -20,15 +30,17 @@
     <ul>
       <li><a href="https://www.vertabelo.com/blog/crow-s-foot-notation/">Crow’s Foot Notation</a></li>
     </ul>
-  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/datatypes.htm#i46029">Oracle 11g PL/SQL DataTypes</a></li
   </li>
+  
+  <li><a href="https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/datatypes.htm#i46029">Oracle 11g PL/SQL DataTypes</a></li>
+  
   <li><a href="https://docs.oracle.com/cd/B28359_01/server.111/b28298/ch3globenv.htm">Setting NLS(National Language Support)</a></li>
 </ul>
 
 
 ## 2. SQL
 <ul>
-  <li><a href="https://www.coursera.org/learn/sql-for-data-science/supplement/eJ5lQ/union-and-union-all">Difference Between Union and Union All - Optimal Performance Comparison</a></li>
+  <li><a href="https://www.oracletutorial.com/oracle-basics/oracle-union/">Difference Between Union and Union All</a></li>
   
   <li><a href="https://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/">Subqueries versus Joins</a></li>
 </ul>
@@ -36,25 +48,30 @@
 <h4>SQL for R</h4>
 <ul>
   <li><a href="https://cran.r-project.org/web/packages/sqldf/index.html">SQLDF Package</a></li>
+  
   <li><a href="https://cran.r-project.org/web/packages/sqldf/sqldf.pdf">Documentation</a></li>
+  
   <li><a href="https://www.r-bloggers.com/manipulating-data-frames-using-sqldf-a-brief-overview/">Examples</a></li>
 </ul>
 
 <h4>SQL for Spark</h4>
 <ul>
   <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html#overview">Overview</a></li>
+  
   <li><a href="https://spark.apache.org/docs/latest/sql-programming-guide.html">Documentation</a></li>
 </ul>
 
 <h4>SQL with Hadoop</h4>
 <ul>
   <li><a href="https://hive.apache.org/">Hive Overview</a></li>
+  
   <li><a href="https://cwiki.apache.org/confluence/display/Hive/LanguageManual">Documentation</a></li>
 </ul>
 
 <h4>SQL for Python</h4>
 <ul>
   <li><a href="https://pypi.python.org/pypi/python-sql">Python-SQL Package Documentation</a></li>
+  
   <li><a href="https://mode.com/blog/learning-python-sql">Thinking in SQL vs Thinking in Python</a></li>
 </ul><br>
 
@@ -63,8 +80,11 @@
 ### 2-1. Key Constraints
 <ul>
   <li><a href="https://www.techonthenet.com/oracle/index.php">Primary Keys</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/foreign_keys/index.php">Foreign Key Topics</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/unique.php">Unique Constraints</a></li>
+  
   <li><a href="https://www.techonthenet.com/oracle/check.php">Check Constraints</a></li>
 </ul>
 
@@ -214,6 +234,7 @@
 ## [8. PL/SQL Composite Data Types](https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501)
 <ul>
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS419">Record Variables</a></li>
+  
   <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#LNPLS00501">Collection Types(key-value paris)</a>
     <ul>
       <li><a href="https://docs.oracle.com/database/121/LNPLS/composites.htm#GUID-5ADB7EE2-71F6-4172-ACD8-FFDCF2787A37">Nested Tables</a></li>
